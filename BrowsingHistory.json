@@ -1,49 +1,49 @@
 { "pages": 
-[
+["Google Chrome Web Browser"]
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://2542116.fls.doubleclick.net/activityi;dc_pre=CJ2RhrTF6N8CFRZuwQod1bMHZQ;src=2542116;type=clien612;cat=chromx;ord=1;num=4763492402056;gtm=2wgbc0;gcldc=CMmhkKPF6N8CFZBwgQodFkIHsw;auiddc=1864775699.1545521944;~oref=https%3A%2F%2Fwww.google.com%2Fchrome%2Fthank-you.html%3Fbrand%3DCHBF%26statcb%3D1%26installdataindex%3Dempty?",
     "PageTitle": "2542116.fls.doubleclick.net",
     "SearchTerms": null
   },
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://www.google.com/chrome/thank-you.html?brand=CHBF&statcb=1&installdataindex=empty",
     "PageTitle": "Google Chrome Web Browser",
     "SearchTerms": null
   },
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://2542116.fls.doubleclick.net/activityi;dc_pre=CMP7vq_F6N8CFRNowQodBacMyQ;src=2542116;type=chrom322;cat=chrom025;ord=5341057178357;gtm=2wgbc0;gcldc=CMmhkKPF6N8CFZBwgQodFkIHsw;auiddc=1864775699.1545521944;~oref=https%3A%2F%2Fwww.google.com%2Fchrome%2F%3Futm_source%3Dbing%26utm_medium%3Dsem%26utm_campaign%3D1001342%257CChromeWin10%257CUS%257Cen%257CHybrid%257CText%257CSKWS~Phrase%26brand%3DCHBF%26ds_kid%3D43700012290718061%26utm_source%3Dbing%26utm_medium%3Dcpc%26utm_campaign%3D1005992%2520%257C%2520Chrome%2520Win10%2520%257C%2520DR%2520%257C%2520ESS01%2520%257C%2520NA%2520%257C%2520US%2520%257C%2520en%2520%257C%2520Desk%2520%257C%2520BING%2520SEM%2520%257C%2520SKWS%2520~%2520Phrase%26utm_term%3Dbrowser%26utm_content%3DBrowser%2520General%2520-%2520Phrase%26gclid%3DCMmhkKPF6N8CFZBwgQodFkIHsw%26gclsrc%3Dds?",
     "PageTitle": "2542116.fls.doubleclick.net",
     "SearchTerms": null
   },
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://www.youtube.com/embed/CIkinuljyv4?rel=0&L=0&M=0&K=1&enablejsapi=1&origin=https%3A%2F%2Fwww.google.com&widgetid=1",
     "PageTitle": "www.youtube.com",
     "SearchTerms": null
   },
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://www.google.com/chrome/?utm_source=bing&utm_medium=sem&utm_campaign=1001342%7CChromeWin10%7CUS%7Cen%7CHybrid%7CText%7CSKWS~Phrase&brand=CHBF&ds_kid=43700012290718061&utm_source=bing&utm_medium=cpc&utm_campaign=1005992%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20NA%20%7C%20US%20%7C%20en%20%7C%20Desk%20%7C%20BING%20SEM%20%7C%20SKWS%20~%20Phrase&utm_term=browser&utm_content=Browser%20General%20-%20Phrase&gclid=CMmhkKPF6N8CFZBwgQodFkIHsw&gclsrc=ds",
     "PageTitle": "Google Chrome Web Browser",
     "SearchTerms": null
   },
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3K7PO3t962CNY_q8atF5oQzVUCUx5hxk71gYYdKf3nqjkbVVD8Iv36-S0UxjfL2Hd24RDis6NFKIbNRp6PT8RvbVWhIcLh9lqPiip9gimWm95_Cac9GjxnepuSbCOr6ptxM3JPZRLcGclAR2yazdp8Y0YI0-IrShDALqvYbecxDgisgvz&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDAxMjI5MDcxODA2MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMTUxNTMzMjk3OCUyNmRzX3hfYWR4aWQlM2Q4MzcwMDAwMDY5NDY1NjA5OCUyNmRzX3hfYWR4dHlwZSUzZDElMjZkc19lX2FkaWQlM2Q4MDMzMzA3MTU1MDk3NCUyNiUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZ29vZ2xlLmNvbSUyZmNocm9tZSUyZmJyb3dzZXIlMmZmZWF0dXJlcy5odG1sJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkc2VtJTI2dXRtX2NhbXBhaWduJTNkMTAwMTM0MiU3Y0Nocm9tZVdpbjEwJTdjVVMlN2NlbiU3Y0h5YnJpZCU3Y1RleHQlN2NTS1dTJTdlUGhyYXNlJTI2YnJhbmQlM2RDSEJGJTI2ZHNfa2lkJTNkJTViKlRyYWNrZXJJRColNWQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QxMDA1OTkyJTI1MjAlMjU3QyUyNTIwQ2hyb21lJTI1MjBXaW4xMCUyNTIwJTI1N0MlMjUyMERSJTI1MjAlMjU3QyUyNTIwRVNTMDElMjUyMCUyNTdDJTI1MjBOQSUyNTIwJTI1N0MlMjUyMFVTJTI1MjAlMjU3QyUyNTIwZW4lMjUyMCUyNTdDJTI1MjBEZXNrJTI1MjAlMjU3QyUyNTIwQklORyUyNTIwU0VNJTI1MjAlMjU3QyUyNTIwU0tXUyUyNTIwJTdlJTI1MjBQaHJhc2UlMjZ1dG1fdGVybSUzZGJyb3dzZXIlMjZ1dG1fY29udGVudCUzZEJyb3dzZXIlMjUyMEdlbmVyYWwlMjUyMC0lMjUyMFBocmFzZQ&rlid=10960628b6391236b2285a12b3600c4b&adlt=strict",
     "PageTitle": "www.bing.com",
     "SearchTerms": null
   },
   {
-    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DateTime": "2019-10-19T00:21:59+00:00",
     "DeviceId": "g:6825773374742875",
     "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
     "PageTitle": "www.bing.com",
