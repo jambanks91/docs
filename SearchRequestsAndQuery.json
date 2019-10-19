@@ -1,0 +1,549 @@
+{ "pages": 
+[
+  {
+    "DateTime": "2019-01-12T15:18:49.3593052+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "chrome web browser download free"
+  },
+  {
+    "DateTime": "2019-01-12T02:12:43.3147023+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "ziprecruiter"
+  },
+  {
+    "DateTime": "2019-01-12T00:57:45.7763368+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-12T00:57:55.9861978+00:00",
+        "Title": "Microsoft Excel Online - Work together on Excel spreadsheets",
+        "Url": "https://office.live.com/start/Excel.aspx"
+      }
+    ],
+    "SearchTerms": "excel online"
+  },
+  {
+    "DateTime": "2019-01-12T00:52:37.4928919+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "how to get excel for free"
+  },
+  {
+    "DateTime": "2019-01-06T23:57:57.5613607+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-06T23:58:16.2641713+00:00",
+        "Title": "App downloads - Google Photos",
+        "Url": "https://photos.google.com/apps"
+      }
+    ],
+    "SearchTerms": "google photos app"
+  },
+  {
+    "DateTime": "2019-01-06T23:48:14.8298074+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "microsoft office 365"
+  },
+  {
+    "DateTime": "2019-01-06T23:47:39.666601+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "Google Chrome"
+  },
+  {
+    "DateTime": "2019-01-05T20:38:21.907458+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-05T20:38:26.3435046+00:00",
+        "Title": "Skype Support for Skype for Windows desktop | Skype Support",
+        "Url": "https://support.skype.com/en/skype/windows-desktop/"
+      }
+    ],
+    "SearchTerms": "skype support"
+  },
+  {
+    "DateTime": "2019-01-05T20:30:24.5206961+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-05T20:30:45.2987326+00:00",
+        "Title": "Electrical Training | Greenville Technical College",
+        "Url": "https://www.gvltec.edu/edct/industrial_manufacturing/electrical-training.html"
+      }
+    ],
+    "SearchTerms": "greenville tech journeyman electrician review class"
+  },
+  {
+    "DateTime": "2019-01-05T20:27:35.9192493+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "greenville tech course catalog"
+  },
+  {
+    "DateTime": "2019-01-04T13:36:39.0003367+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-04T13:37:10.8120949+00:00",
+        "Title": "Call My Lost Phone.com",
+        "Url": "https://www.callmylostphone.com/"
+      }
+    ],
+    "SearchTerms": "phone call"
+  },
+  {
+    "DateTime": "2019-01-04T13:36:27.86242+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "google"
+  },
+  {
+    "DateTime": "2019-01-04T13:35:28.0547703+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-04T13:35:33.7663719+00:00",
+        "Title": "Google Maps",
+        "Url": "https://maps.google.com/"
+      }
+    ],
+    "SearchTerms": "Google Maps"
+  },
+  {
+    "DateTime": "2019-01-04T13:23:17.0295758+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2019-01-04T13:23:28.0458963+00:00",
+        "Title": "Messenger",
+        "Url": "https://www.messenger.com/?_rdr"
+      }
+    ],
+    "SearchTerms": "facebook messenger"
+  },
+  {
+    "DateTime": "2018-12-23T03:55:34.0328172+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T03:55:58.3950965+00:00",
+        "Title": "Background Images · Pixabay · Download Free Pictures",
+        "Url": "https://pixabay.com/en/photos/background/"
+      }
+    ],
+    "SearchTerms": "backgrounds"
+  },
+  {
+    "DateTime": "2018-12-23T03:49:15.7708663+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T03:49:31.4141279+00:00",
+        "Title": "Best 25+ Harry potter wallpaper ideas on Pinterest | Cute ...",
+        "Url": "https://www.pinterest.com/explore/harry-potter-wallpaper/"
+      }
+    ],
+    "SearchTerms": "harry potter wallpapers"
+  },
+  {
+    "DateTime": "2018-12-23T02:52:19.7620954+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "Sometimes for movies at regal meridon 16"
+  },
+  {
+    "DateTime": "2018-12-23T02:51:40.4224434+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "https://www.bing.com/images/search?view=detailV2&ccid=1BeEoWDq&id=35D304A2E961428F3BD545D74D6962A5B3E8768F&thid=OIP.1BeEoWDqAIgVJcMqiwF5egHaEK&mediaurl=http://wallpapercave.com/wp/JxuVOsC.jpg&exph=720&expw=1280&q=hogwarts+backgrounds&simid=608022953649111216&selectedindex=21&ajaxhist=0&vt=0"
+  },
+  {
+    "DateTime": "2018-12-23T02:50:02.2642295+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "hogwarts backgrounds"
+  },
+  {
+    "DateTime": "2018-12-23T02:49:46.6413618+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "hogwarts backgrounds"
+  },
+  {
+    "DateTime": "2018-12-23T02:48:08.4213175+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T02:48:50.4227061+00:00",
+        "Title": "Hogwarts wallpaper ·① Download free amazing wallpapers for ...",
+        "Url": "https://wallpapertag.com/hogwarts-wallpaper"
+      },
+      {
+        "Time": "2018-12-23T02:48:21.1179918+00:00",
+        "Title": "Hogwarts Castle Wallpapers - Wallpaper Cave",
+        "Url": "https://wallpapercave.com/hogwarts-castle-wallpaper"
+      }
+    ],
+    "SearchTerms": "hogwarts backgrounds"
+  },
+  {
+    "DateTime": "2018-12-23T02:47:37.8057545+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T02:47:45.3538118+00:00",
+        "Title": "Hogwarts Wallpapers - Full HD wallpaper search",
+        "Url": "http://hdw.eweb4.com/search/hogwarts/"
+      }
+    ],
+    "SearchTerms": "hogwarts backgrounds"
+  },
+  {
+    "DateTime": "2018-12-23T02:45:54.0263482+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T02:46:02.0964335+00:00",
+        "Title": "Desktop wallpapers hd, free desktop backgrounds",
+        "Url": "https://wallpaperscraft.com/"
+      }
+    ],
+    "SearchTerms": "pc wallpaper"
+  },
+  {
+    "DateTime": "2018-12-23T02:37:37.3824381+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pc backgrounds"
+  },
+  {
+    "DateTime": "2018-12-23T01:25:38.0933242+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "new lil wayne 2018"
+  },
+  {
+    "DateTime": "2018-12-23T00:21:26.0444189+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "new eminem"
+  },
+  {
+    "DateTime": "2018-12-23T00:20:55.4197088+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "new eminem"
+  },
+  {
+    "DateTime": "2018-12-23T00:20:38.6145387+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "remixes"
+  },
+  {
+    "DateTime": "2018-12-23T00:17:10.6558421+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg on pc"
+  },
+  {
+    "DateTime": "2018-12-23T00:16:08.2111904+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T00:16:29.2308974+00:00",
+        "Title": "PUBG Mobile For PC (Windows 10 & Mac) Download - Android Games",
+        "Url": "https://www.stalkworld.com/pubg-mobile-for-pc-free-download-windows10-laptop/"
+      }
+    ],
+    "SearchTerms": "pubg on windows 10 for free"
+  },
+  {
+    "DateTime": "2018-12-23T00:15:28.1903898+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg on windows 10 for free"
+  },
+  {
+    "DateTime": "2018-12-23T00:15:18.0658233+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg on windows 10 for free"
+  },
+  {
+    "DateTime": "2018-12-23T00:15:04.4046592+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg on windows 10 for free"
+  },
+  {
+    "DateTime": "2018-12-23T00:12:32.155356+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-23T00:13:13.8205667+00:00",
+        "Title": "PUBG for Windows 10 free download on Windows 10 App Store",
+        "Url": "https://www.10appstore.net/pubg/win10apps.html"
+      }
+    ],
+    "SearchTerms": "pubg on windows 10 for free"
+  },
+  {
+    "DateTime": "2018-12-23T00:12:14.9375538+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg for windows 10"
+  },
+  {
+    "DateTime": "2018-12-23T00:10:31.1805782+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "google play store"
+  },
+  {
+    "DateTime": "2018-12-22T23:37:24.3150125+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "google play store"
+  },
+  {
+    "DateTime": "2018-12-22T23:36:31.590575+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "tencent games"
+  },
+  {
+    "DateTime": "2018-12-22T23:35:44.2512122+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "tencent games"
+  },
+  {
+    "DateTime": "2018-12-22T23:35:09.6664553+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "how to download pubg on pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:34:18.3248696+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-22T23:34:46.4515404+00:00",
+        "Title": "Amazon.com: pubg pc",
+        "Url": "https://www.amazon.com/pubg-pc/s?page=1&rh=i:aps%2Ck:pubg pc"
+      }
+    ],
+    "SearchTerms": "pub g for pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:33:19.1718806+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-22T23:33:42.331836+00:00",
+        "Title": "PUBG PC - PlayerUnknown's Battlegrounds For PC",
+        "Url": "http://pubg-pc.com/"
+      }
+    ],
+    "SearchTerms": "pubg pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:33:10.7269294+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:31:46.1762262+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-22T23:31:52.8778756+00:00",
+        "Title": "PUBG PC - PlayerUnknown's Battlegrounds For PC",
+        "Url": "http://pubg-pc.com/"
+      }
+    ],
+    "SearchTerms": "pubg pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:30:40.47143+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg game download for pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:28:43.6497449+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg game download for pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:22:58.2995681+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [],
+    "SearchTerms": "pubg game download for pc"
+  },
+  {
+    "DateTime": "2018-12-22T23:17:55.3596524+00:00",
+    "DeviceId": null,
+    "AccuracyRadius": null,
+    "Latitude": null,
+    "Longitude": null,
+    "NavigatedToUrls": [
+      {
+        "Time": "2018-12-22T23:18:30.036827+00:00",
+        "Title": "1000+ Cool Wallpapers [Download] | Unsplash",
+        "Url": "https://unsplash.com/wallpaper/1111678/cool-wallpapers"
+      }
+    ],
+    "SearchTerms": "awesome computer backgrounds"
+  }
+]
+}

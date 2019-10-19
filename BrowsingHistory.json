@@ -1,0 +1,3399 @@
+{ "pages": 
+[
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://2542116.fls.doubleclick.net/activityi;dc_pre=CJ2RhrTF6N8CFRZuwQod1bMHZQ;src=2542116;type=clien612;cat=chromx;ord=1;num=4763492402056;gtm=2wgbc0;gcldc=CMmhkKPF6N8CFZBwgQodFkIHsw;auiddc=1864775699.1545521944;~oref=https%3A%2F%2Fwww.google.com%2Fchrome%2Fthank-you.html%3Fbrand%3DCHBF%26statcb%3D1%26installdataindex%3Dempty?",
+    "PageTitle": "2542116.fls.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/chrome/thank-you.html?brand=CHBF&statcb=1&installdataindex=empty",
+    "PageTitle": "Google Chrome Web Browser",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://2542116.fls.doubleclick.net/activityi;dc_pre=CMP7vq_F6N8CFRNowQodBacMyQ;src=2542116;type=chrom322;cat=chrom025;ord=5341057178357;gtm=2wgbc0;gcldc=CMmhkKPF6N8CFZBwgQodFkIHsw;auiddc=1864775699.1545521944;~oref=https%3A%2F%2Fwww.google.com%2Fchrome%2F%3Futm_source%3Dbing%26utm_medium%3Dsem%26utm_campaign%3D1001342%257CChromeWin10%257CUS%257Cen%257CHybrid%257CText%257CSKWS~Phrase%26brand%3DCHBF%26ds_kid%3D43700012290718061%26utm_source%3Dbing%26utm_medium%3Dcpc%26utm_campaign%3D1005992%2520%257C%2520Chrome%2520Win10%2520%257C%2520DR%2520%257C%2520ESS01%2520%257C%2520NA%2520%257C%2520US%2520%257C%2520en%2520%257C%2520Desk%2520%257C%2520BING%2520SEM%2520%257C%2520SKWS%2520~%2520Phrase%26utm_term%3Dbrowser%26utm_content%3DBrowser%2520General%2520-%2520Phrase%26gclid%3DCMmhkKPF6N8CFZBwgQodFkIHsw%26gclsrc%3Dds?",
+    "PageTitle": "2542116.fls.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/embed/CIkinuljyv4?rel=0&L=0&M=0&K=1&enablejsapi=1&origin=https%3A%2F%2Fwww.google.com&widgetid=1",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/chrome/?utm_source=bing&utm_medium=sem&utm_campaign=1001342%7CChromeWin10%7CUS%7Cen%7CHybrid%7CText%7CSKWS~Phrase&brand=CHBF&ds_kid=43700012290718061&utm_source=bing&utm_medium=cpc&utm_campaign=1005992%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20NA%20%7C%20US%20%7C%20en%20%7C%20Desk%20%7C%20BING%20SEM%20%7C%20SKWS%20~%20Phrase&utm_term=browser&utm_content=Browser%20General%20-%20Phrase&gclid=CMmhkKPF6N8CFZBwgQodFkIHsw&gclsrc=ds",
+    "PageTitle": "Google Chrome Web Browser",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3K7PO3t962CNY_q8atF5oQzVUCUx5hxk71gYYdKf3nqjkbVVD8Iv36-S0UxjfL2Hd24RDis6NFKIbNRp6PT8RvbVWhIcLh9lqPiip9gimWm95_Cac9GjxnepuSbCOr6ptxM3JPZRLcGclAR2yazdp8Y0YI0-IrShDALqvYbecxDgisgvz&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDAxMjI5MDcxODA2MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMTUxNTMzMjk3OCUyNmRzX3hfYWR4aWQlM2Q4MzcwMDAwMDY5NDY1NjA5OCUyNmRzX3hfYWR4dHlwZSUzZDElMjZkc19lX2FkaWQlM2Q4MDMzMzA3MTU1MDk3NCUyNiUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZ29vZ2xlLmNvbSUyZmNocm9tZSUyZmJyb3dzZXIlMmZmZWF0dXJlcy5odG1sJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkc2VtJTI2dXRtX2NhbXBhaWduJTNkMTAwMTM0MiU3Y0Nocm9tZVdpbjEwJTdjVVMlN2NlbiU3Y0h5YnJpZCU3Y1RleHQlN2NTS1dTJTdlUGhyYXNlJTI2YnJhbmQlM2RDSEJGJTI2ZHNfa2lkJTNkJTViKlRyYWNrZXJJRColNWQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QxMDA1OTkyJTI1MjAlMjU3QyUyNTIwQ2hyb21lJTI1MjBXaW4xMCUyNTIwJTI1N0MlMjUyMERSJTI1MjAlMjU3QyUyNTIwRVNTMDElMjUyMCUyNTdDJTI1MjBOQSUyNTIwJTI1N0MlMjUyMFVTJTI1MjAlMjU3QyUyNTIwZW4lMjUyMCUyNTdDJTI1MjBEZXNrJTI1MjAlMjU3QyUyNTIwQklORyUyNTIwU0VNJTI1MjAlMjU3QyUyNTIwU0tXUyUyNTIwJTdlJTI1MjBQaHJhc2UlMjZ1dG1fdGVybSUzZGJyb3dzZXIlMjZ1dG1fY29udGVudCUzZEJyb3dzZXIlMjUyMEdlbmVyYWwlMjUyMC0lMjUyMFBocmFzZQ&rlid=10960628b6391236b2285a12b3600c4b&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=chrome%20web%20browser%20download%20free&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "chrome web browser download free - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=chrome%20web%20browser%20download%20free",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=chrome+web+browser+download+free",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmScheduleCall.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmResults.aspx?State=TN&Facility=Knox+County+Jail&SearchText=marchbanks&SearchType=4",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?SearchType=4",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/GeneralError.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/VideoCall2.aspx?CallID=1357803",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/VideoCall2.aspx?CallID=1357785",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmExternalVideoTest.aspx?CallID=1357785",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallTypeSelect.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmResults.aspx?State=TN&Facility=Knox+County+Jail&SearchText=marchbanks&SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmReadMessage.aspx?MessageID=7e1f2ddd-01d9-4e60-a515-bc526e08ce8a",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmlistmessages.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn2.aspx?Email=jambanks91%40gmail.com&ReturnURL=frmlistmessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn.aspx?ReturnURL=frmlistmessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-23T00:21:59+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.normandoh.com/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z",
+    "PageTitle": "Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://dis.us.criteo.com/dis/dis.aspx?p=21803&cb=81467773090&ref=https%3A%2F%2Fwww.ziprecruiter.com%2F%3Fcvosrc%3Ddglem%257Cbing-search%257Ccmp-31613836%257Cadg-2966449653%257Ckw-ziprecruiter%257Cmt-e%257Cdevice-c%257Ccr-%257Bcreative%257D%26utm_medium%3Dcpc%26utm_source%3Dbing%26utm_campaign%3Dbrand%26utm_term%3Dziprecruiter%26mid%3D2304%26sem%3D1%26msclkid%3D8a8a648cadd7171b1b6138b5e0c81522&sc_r=1138x640&sc_d=24",
+    "PageTitle": "dis.us.criteo.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://dnt.qualaroo.com/frame.html",
+    "PageTitle": "dnt.qualaroo.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ziprecruiter.com/candidate/search?search=electrician&location=Greenville%2C+SC",
+    "PageTitle": "31+ Electrician Jobs (NOW HIRING) in Greenville, SC | ZipRecruiter",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://dis.us.criteo.com/dis/dis.aspx?p=21803&cb=28112037503&ref=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dziprecruiter%26pc%3Dcosp%26ptag%3DG6C72N1234D120118A98C4AF66BD%26form%3DCONBDF%26conlogo%3DCT3210127&sc_r=1138x640&sc_d=24",
+    "PageTitle": "dis.us.criteo.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ziprecruiter.com/?cvosrc=dglem%7Cbing-search%7Ccmp-31613836%7Cadg-2966449653%7Ckw-ziprecruiter%7Cmt-e%7Cdevice-c%7Ccr-%7Bcreative%7D&utm_medium=cpc&utm_source=bing&utm_campaign=brand&utm_term=ziprecruiter&mid=2304&sem=1&msclkid=8a8a648cadd7171b1b6138b5e0c81522",
+    "PageTitle": "Job Search - Millions of Jobs Hiring Near You | ZipRecruiter",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3iUwHgbFvR_MYkQnUXchaBTVUCUwYZpP6GLwB9JRvtET-VxJCrwzKuUGg28Cb8B3YC-J8JmA-nTOec7MAhX5glvfHTP8eztE9pctOcOe77w9OM_NRtUX2iDIdFT8dwA3avXMa0TjSH0I_wx9Af2Ca2v28bHsaWYMvWN7wjK9XK_6zTkuI&u=d3d3LnppcHJlY3J1aXRlci5jb20lMmYlM2Zjdm9zcmMlM2RkZ2xlbSU3Y2Jpbmctc2VhcmNoJTdjY21wLTMxNjEzODM2JTdjYWRnLTI5NjY0NDk2NTMlN2Nrdy16aXByZWNydWl0ZXIlN2NtdC1lJTdjZGV2aWNlLWMlN2Njci0lN2JjcmVhdGl2ZSU3ZCUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9jYW1wYWlnbiUzZGJyYW5kJTI2dXRtX3Rlcm0lM2R6aXByZWNydWl0ZXIlMjZtaWQlM2QyMzA0JTI2c2VtJTNkMSUyNm1zY2xraWQlM2QlN2Jtc2Nsa2lkJTdk&rlid=08e28bdbc48216d28850d7e28999d6bf&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=ziprecruiter&pc=cosp&ptag=G6C72N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "ziprecruiter - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=ziprecruiter",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=ziprecruiter",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDFGKXfMWJPmRpjrQVTZFftC",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://success.opt-out-keto-one.com/unsub/8IJSbe9an0iVLQuWLTA0gP3A72Bo4gdNgofnuV5xYNLQBxQXCXVLQNu2kUDKVe14",
+    "PageTitle": "Unsubscribe Page Standard 1",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://submit.opt-out-keto-one.com/unsub/8IJSbe9an0iVLQuWLTA0gP3A72Bo4gdNgofnuV5xYNLQBxQXCXVLQNu2kUDKVe14",
+    "PageTitle": "Unsubscribe Page Standard 1",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/url?q=http://exchange.ecohat.net/by0%3DY1h2RYb32R9bR9dj90j3jYdajd3ZhYYh3zA9ocvXY8c73%257CZHld1Bo4ZHsd.Csu.sY0ZHp%257Cq3upYphR13NFrx4Trs&source=gmail&ust=1547344342342000&usg=AFQjCNGas1VkIaSGskYFsfGeYe4CefVbqQ",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDFGKgQvrHcwWdHpXztpnZTm",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.zillow.com/search/Unsubscribed.htm?ie=true&id=X1-SS-h4w89c4iqtx1_282ek&ins=true&utm_source=email&utm_medium=email&utm_campaign=emo-instantsavedsearch&utm_term=urn:msg:20190111224848783660d135e1f0ea&utm_content=footerunsub",
+    "PageTitle": "Unsubscribe from Zillow | Zillow",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/url?q=https://click.mail.zillow.com/f/a/babCBNu4UoZ_SgIB32PivQ~~/AAAAAQA~/RgReG6JTP0UiZW1vLWZvb3RlcnVuc3ViLWluc3RhbnRzYXZlZHNlYXJjaARXBnppbGxvd0IKAA9THTlcIpkvVlIUamFtYmFua3M5MUBnbWFpbC5jb21YBAAAAAA~?target%3Dhttps%253A%252F%252Fwww.zillow.com%252Fsearch%252FUnsubscribed.htm%253Fie%253Dtrue%2526id%253DX1-SS-h4w89c4iqtx1_282ek%2526ins%253Dtrue%2526utm_source%253Demail%2526utm_medium%253Demail%2526utm_campaign%253Demo-instantsavedsearch%2526utm_term%253Durn%253Amsg%253A20190111224848783660d135e1f0ea%2526utm_content%253Dfooterunsub&source=gmail&ust=1547344341369000&usg=AFQjCNEVvRQg8nkYvlwyqDSlZyl08xxeng",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDGMnDWQpBSrdVLXWnCscDfr",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hotpads.com/unsubscribe/searches?ref=recommendedSearch&utm_source=recommendedsearch&utm_medium=email&utm_campaign=recommendedsearch&uvl=TgbOsucKkP31dIvahSU2fSnvfuZh71qHZCqhxV2wZrg&nid=bfaf885f-15fa-11e9-9e1e-0af2c675332c&cancelHash=a077433f2a04d9b3a581c00e72399d1f&email=jambanks91%40gmail.com",
+    "PageTitle": "hotpads.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/url?q=https://hotpads.com/unsubscribe/searches?ref%3DrecommendedSearch%26utm_source%3Drecommendedsearch%26utm_medium%3Demail%26utm_campaign%3Drecommendedsearch%26uvl%3DTgbOsucKkP31dIvahSU2fSnvfuZh71qHZCqhxV2wZrg%26nid%3Dbfaf885f-15fa-11e9-9e1e-0af2c675332c%26cancelHash%3Da077433f2a04d9b3a581c00e72399d1f%26email%3Djambanks91%2540gmail.com&source=gmail&ust=1547344336672000&usg=AFQjCNFkWW76YVfIyRF0uWCzEuqYve3mZQ",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDFFqmXDgqHXZMLMSJBWFMXs",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDGMwcBsdjzCMvFVPkQsgkDt",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#starred",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://robinhood.com/account",
+    "PageTitle": "robinhood.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://robinhood.com/account/history",
+    "PageTitle": "robinhood.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1546842739564&k=6LdiYSUUAAAAAA3Ap7TaAPrH04ef2mYpjy050oz2&cb=qh4h71a7gvva",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdiYSUUAAAAAA3Ap7TaAPrH04ef2mYpjy050oz2&co=aHR0cHM6Ly9yb2Jpbmhvb2QuY29tOjQ0Mw..&hl=en&v=v1546842739564&size=invisible&badge=inline&cb=4z1cys3jz37g",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://user.robinhood.com/password_reset/submit/",
+    "PageTitle": "Robinhood - Password Updated",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://user.robinhood.com/password_reset/",
+    "PageTitle": "Robinhood - Password Reset",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://user.robinhood.com/password_reset/?username=jambanks91%40gmail.com&token=52x-b979882536ad145b78f4",
+    "PageTitle": "user.robinhood.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/url?q=https://user.robinhood.com/password_reset/?username%3Djambanks91%2540gmail.com%26token%3D52x-b979882536ad145b78f4&source=gmail&ust=1547345290076000&usg=AFQjCNH9zahrWoPENMEjtTxzSQukZZ21aA",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDGMwcBsXJrPxQstGNBLWGCN",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://signup.robinhood.com/reset_password/",
+    "PageTitle": "Robinhood - Sign Up",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f3fa2b597fee33c&origin=https%3A%2F%2Frobinhood.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://robinhood.com/login",
+    "PageTitle": "robinhood.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://robinhood.com/account/documents",
+    "PageTitle": "robinhood.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T14:57:58+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://platform.twitter.com/widgets/widget_iframe.8f9047c344e062fa7c7ada2fa8332f75.html?origin=https%3A%2F%2Frobinhood.com&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings",
+    "PageTitle": "platform.twitter.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://robinhood.com/account/documents",
+    "PageTitle": "robinhood.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/url?q=https://robinhood.com/account/documents&source=gmail&ust=1547344349612000&usg=AFQjCNHBw8o_D2YiLAXT_0KWRSLWX-M4gw",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDCtQHbjVmtqVxvQlfbDklrS",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://taskassist-pa.clients6.google.com/static/proxy.html?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#parent=https%3A%2F%2Fmail.google.com&rpctoken=748157285",
+    "PageTitle": "taskassist-pa.clients6.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDFFqtLGVHQgqklXMKPmMGzn",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fmail.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=223521939&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/hangouts/_/hscv?pvt=AMP3uWazaGryfKlBxgHEACVkRIAz9clC1_BnrIOm9JTjxkEkWPadkYOCIQw-HSp-SgC2j0uoRu0Rnbzsoq44WOiddi8BIw7PEA%3D%3D&authuser=0&xpc=%7B%22cn%22%3A%22A4JJUaE0t4%22%2C%22ppu%22%3A%22https%3A%2F%2Fmail.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%7D",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://contacts.google.com/widget/hovercard/v/2?origin=https://mail.google.com&usegapi=1&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fmail.google.com&pfname=&rpctoken=19985485",
+    "PageTitle": "contacts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/?ui=2&view=bsp&ver=ohhl4rw8mbn4",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://gmail.com/",
+    "PageTitle": "gmail.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/Default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T02:06:55+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn2.aspx?Email=jambanks91%40gmail.com",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/webchat/u/0/frame2?v=1546985140&pvt=AMP3uWamOsWM09HKBjeivn-jfKroFVytdknE4XMisYshCUNycaQhEEVidloIZwovV7hByPSdqi448EFZRGCI7lpwoQ_WK55VUg%3D%3D&prop=gmail&hl=en&fid=gtn-roster-iframe-id#e%5B%22wblh0.965024507026641-1%22,2,1,%5Bnull,%5B2,3,4,5%5D%5D%5D",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/webchat/u/0/frame2?v=1546985140&pvt=AMP3uWamOsWM09HKBjeivn-jfKroFVytdknE4XMisYshCUNycaQhEEVidloIZwovV7hByPSdqi448EFZRGCI7lpwoQ_WK55VUg%3D%3D&prop=gmail&hl=en&fid=gtn-roster-iframe-id#e%5B%22wblh0.965024507026641-0%22,2,1,%5Btrue,%5B%5D%5D%5D",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fmail.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=1941691399&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVDGMwWcgSxLZJdFbQPWDbDnD",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/webchat/u/0/load?client=sm&prop=gmail&nav=true&fid=gtn-roster-iframe-id&os=Win32&stime=1547256516773&xpc=%7B%22cn%22%3A%22803uls%22%2C%22tp%22%3A1%2C%22ifrid%22%3A%22gtn-roster-iframe-id%22%2C%22pu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Fwebchat%2Fu%2F0%2F%22%7D&ec=%5B%22ci%3Aec%22%2Ctrue%2Ctrue%2Cfalse%5D&pvt=AMP3uWamOsWM09HKBjeivn-jfKroFVytdknE4XMisYshCUNycaQhEEVidloIZwovV7hByPSdqi448EFZRGCI7lpwoQ_WK55VUg%3D%3D&href=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Frel%3D1&pos=l&uiv=2&hl=en&hpc=true&hsm=true&hrc=true&pal=1&uqp=false&gooa=false&gltsi=true&gusm=true&sl=false&hs=%5B%22h_hs%22%2Cnull%2Cnull%2C%5B2%2C0%5D%5D&moleh=380&mmoleh=36&two=https%3A%2F%2Fmail.google.com&host=1&zx=yetnes37874u",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/hangouts/_/hscv?pvt=AMP3uWamOsWM09HKBjeivn-jfKroFVytdknE4XMisYshCUNycaQhEEVidloIZwovV7hByPSdqi448EFZRGCI7lpwoQ_WK55VUg%3D%3D&authuser=0&xpc=%7B%22cn%22%3A%22SViLdBy3gY%22%2C%22ppu%22%3A%22https%3A%2F%2Fmail.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%7D",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://contacts.google.com/widget/hovercard/v/2?origin=https://mail.google.com&usegapi=1&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fmail.google.com&pfname=&rpctoken=11930204",
+    "PageTitle": "contacts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://notifications.google.com/u/0/widget?sourceid=1&hl=en&origin=https%3A%2F%2Fwww.google.com&uc=1&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#pid=1&_methods=onError%2ConInfo%2ChideNotificationWidget%2CpostSharedMessage%2Creauth%2CsetNotificationWidgetHeight%2CsetNotificationWidgetSize%2CswitchTo%2CnavigateTo%2CsetNotificationText%2CsetNotificationAnimation%2CgetNotificationText%2CvalidateUser%2C_ready&id=I0_1547256500593&_gfid=I0_1547256500593&parent=https%3A%2F%2Fwww.google.com&pfname=&rpctoken=15938804",
+    "PageTitle": "notifications.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/",
+    "PageTitle": "Google",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://5.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22hangouts%22%2C%226%22%3A%22gmail%22%2C%227%22%3A%22chat_frontend_20190108.04_p0%22%2C%228%22%3Afalse%2C%2213%22%3Afalse%7D&ctype=hangouts&xpc=%7B%22cn%22%3A%22veAGEJzF1h%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2F5.client-channel.google.com%2Frobots.txt%22%7D",
+    "PageTitle": "5.client-channel.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://clients4.google.com/invalidation/lcs/client?xpc=%7B%22cn%22%3A%22UCw1U0cm2Q%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fclients4.google.com%2Frobots.txt%22%7D",
+    "PageTitle": "clients4.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/hangouts/_/hscv?pvt=AMP3uWapPf863x2yTj2I00_XPsnkQG9Pq7bSLfSlVMd3aMtHgqKywmiyXpEOFSm7p_c-FewfiJG-VWpr3eTQKETjdwqBqvGM8w%3D%3D&winUrl=https%3A%2F%2Fmail.google.com&authuser=0&xpc=%7B%22cn%22%3A%22FDeLY8doop%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%7D",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox?projector=1",
+    "PageTitle": "Inbox (5,261) - jambanks91@gmail.com - Gmail",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://hangouts.google.com/hangouts/_/hscv?pvt=AMP3uWapPf863x2yTj2I00_XPsnkQG9Pq7bSLfSlVMd3aMtHgqKywmiyXpEOFSm7p_c-FewfiJG-VWpr3eTQKETjdwqBqvGM8w%3D%3D&authuser=0&xpc=%7B%22cn%22%3A%22buUS5gZ9Z5%22%2C%22ppu%22%3A%22https%3A%2F%2Fmail.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Frobots.txt%22%7D",
+    "PageTitle": "hangouts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fmail.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=481010397&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://contacts.google.com/widget/hovercard/v/2?origin=https://mail.google.com&usegapi=1&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fmail.google.com&pfname=&rpctoken=38582900",
+    "PageTitle": "contacts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/#inbox",
+    "PageTitle": "Inbox (5,261) - jambanks91@gmail.com - Gmail",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mail.google.com/mail/u/0/?ui=2&view=bsp&ver=ohhl4rw8mbn4",
+    "PageTitle": "mail.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "dmail.google.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://gmail.com/",
+    "PageTitle": "gmail.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:36:39+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.normandoh.com/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z",
+    "PageTitle": "Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:22:19+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://onedrive.live.com/edit.aspx?resid=50CD6C64DA1E9D73!392&app=Excel&wdnd=1&wdPreviousSession=d924ad05%2D28f1%2D4598%2Db9a9%2Dac00a4a84216&wdNewAndOpenCt=1547254705600&wdPreviousCorrelation=cad24db2%2D7628%2D452f%2D8d46%2Dd178e6ae1f55",
+    "PageTitle": "onedrive.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:22:19+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:22:19+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://youtube.colm/",
+    "PageTitle": "youtube.colm",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://excel.officeapps.live.com/x/_layouts/xlviewerinternal.aspx?edit=1&ui=en-US&rs=en-US&hid=WuDWjCyKyU+zlN0GEfDF5A.0&WOPISrc=https%3A%2F%2Fwopi.onedrive.com%2Fwopi%2Ffiles%2F50CD6C64DA1E9D73%21396&wdnd=1&wdPreviousSession=8f9bf5d3-64ef-49eb-a51f-ac39a98d19d8&wdNewAndOpenCt=1547254793467&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=5945e86c-7ec4-4ea2-b434-8562c9815d1d&wde=xlsx&sc=host%3D%26qt%3DFolders&mscc=1&wdp=0",
+    "PageTitle": "excel.officeapps.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://onedrive.live.com/edit.aspx?resid=50CD6C64DA1E9D73!396&app=Excel&wdnd=1&wdPreviousSession=8f9bf5d3-64ef-49eb-a51f-ac39a98d19d8&wdNewAndOpenCt=1547254793467&wdOrigin=wacFileNew&wdPreviousCorrelation=5945e86c-7ec4-4ea2-b434-8562c9815d1d",
+    "PageTitle": "Book 1.xlsx - Microsoft Excel Online",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://onedrive.live.com/edit.aspx?resid=50CD6C64DA1E9D73!396&app=Excel&wdnd=1&wdPreviousSession=8f9bf5d3%2D64ef%2D49eb%2Da51f%2Dac39a98d19d8&wdNewAndOpenCt=1547254793467&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=5945e86c%2D7ec4%2D4ea2%2Db434%2D8562c9815d1d",
+    "PageTitle": "onedrive.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://excel.officeapps.live.com/x/_layouts/CreateNewDocument.aspx?dest=OneDriveWopi&tpl=TM67366637&app=ExcelWAC&lcid=1033&ct=1547254793467&so=4&or=wacFileNew&bid=jbtnNewTemplate2&Canary=dj1Nz4TrJjjP2%2FU8dW4D7HYKjDac4UmBSAxkTXjDXP8%3D%2C636828514871413780&WOPIsrc=https%3A%2F%2Fwopi%2Eonedrive%2Ecom%2Fwopi%2Ffiles%2F50CD6C64DA1E9D73%21392&access_token=4wgvvUcSf24px0hkzDF%2DzIf4uk6nK6N9IKj6pNe5Eb9Z2dwnqrIRsUSfXPMBic5lvvwfpk0v9RAkyXeiIiWL6rEbOrx5tkPPGbM%5F8Ti1eiVCZvBb07Yr85U2WtwTUP4boID2f6%2DuRBzZEyKVJcuXtOuLl1kB7NNyHM4UcmjAcg6eCDS5Kebou1DGqByU6pLGVrAaS7UGjfQdhlVUoKFJgrXiH4qX2paYq6eWqlS4%5FbnUFRR%5FN6ia2h3m5oo9A7UKgPeZ3jB4cVSalHXv6qLhMPSRv1ivzE7XkOrk9gNt1NBirq49IKS610fONMbVoXHVkMci1n5MkfpM%5FmnqNIMndMhUjYKKeDi%5F46m%5FD32BQPuJQk5%2DJLu3yj0MkDa7nMPPidpFOiMh5uO5Fg2BhcsOe%2DgJ2sT0g46tpAmcntZqnrINS1MbWj1U%5FhcjJNUXoJM1pX14ewLW65QG3UkDR9EyHZL%5FpU4kTeqFXW8byPd33jeJA&access_token_ttl=1549069085711&usid=8f9bf5d3-64ef-49eb-a51f-ac39a98d19d8",
+    "PageTitle": "excel.officeapps.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://skyapi.onedrive.live.com/api/proxy?v=3",
+    "PageTitle": "skyapi.onedrive.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://excel.officeapps.live.com/x/_layouts/xlviewerinternal.aspx?edit=1&ui=en-US&rs=en-US&hid=ELc9HszVbkuoDDHAwez1CA.0&WOPISrc=https%3A%2F%2Fwopi.onedrive.com%2Fwopi%2Ffiles%2F50CD6C64DA1E9D73%21392&wdnd=1&wdPreviousSession=d924ad05-28f1-4598-b9a9-ac00a4a84216&wdNewAndOpenCt=1547254705600&wdo=7&wdPreviousCorrelation=cad24db2-7628-452f-8d46-d178e6ae1f55&wde=xlsx&sc=host%3D%26qt%3DFolders&mscc=1&wdp=0",
+    "PageTitle": "excel.officeapps.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://onedrive.live.com/edit.aspx?resid=50CD6C64DA1E9D73!392&app=Excel&wdnd=1&wdPreviousSession=d924ad05-28f1-4598-b9a9-ac00a4a84216&wdNewAndOpenCt=1547254705600&wdPreviousCorrelation=cad24db2-7628-452f-8d46-d178e6ae1f55",
+    "PageTitle": "Book.xlsx - Microsoft Excel Online",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://onedrive.live.com/edit.aspx?resid=50CD6C64DA1E9D73!392&app=Excel&wdnd=1&wdPreviousSession=d924ad05%2D28f1%2D4598%2Db9a9%2Dac00a4a84216&wdNewAndOpenCt=1547254705600&wdo=7&wdPreviousCorrelation=cad24db2%2D7628%2D452f%2D8d46%2Dd178e6ae1f55",
+    "PageTitle": "onedrive.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://office.live.com/start/CreateNewDocument.aspx?dest=OneDrive&app=ExcelWAC&lcid=1033&so=7&auth=1&nf=1&usid=d924ad05%2D28f1%2D4598%2Db9a9%2Dac00a4a84216&tpl=blank&ct=1547254705600&pcid=51674506-abe8-4758-a97a-7b1270d7435e",
+    "PageTitle": "office.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.trovi.com/?gd=SY1001007&SearchSource=69&n=3&src=bacembed&q=excel%20online&src=www.bing.com",
+    "PageTitle": "www.trovi.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://office.live.com/start/Excel.aspx?s=1&auth=1&nf=1#",
+    "PageTitle": "office.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://word-edit.officeapps.live.com/we/blank.ashx",
+    "PageTitle": "word-edit.officeapps.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://powerpoint.officeapps.live.com/p/blank.ashx",
+    "PageTitle": "powerpoint.officeapps.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://onedrive.live.com/version.htm",
+    "PageTitle": "onedrive.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://office.live.com/start/Excel.aspx?s=1&auth=1&nf=1",
+    "PageTitle": "office.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1547254676&rver=7.0.6731.0&wp=MBI_SSL_SHARED_SHORT&wreply=https:%2F%2Foffice.live.com:443%2Fstart%2FExcel.aspx%3Fs%3D1%26auth%3D1%26nf%3D1&lc=1033&id=257526&lw=1&fl=easi2&cbcxt=1&login_hint=jambanks91%40gmail.com",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/Me.srf?wa=wsignin1.0&wreply=https://office.live.com/start/Excel.aspx",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.microsoftonline.com/savedusers?wreply=https://office.live.com/start/Excel.aspx&appid=4b233688-031c-404b-9a80-a4f3f2351f90",
+    "PageTitle": "login.microsoftonline.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://office.live.com/start/Excel.aspx",
+    "PageTitle": "Microsoft Excel Online - Work together on Excel spreadsheets",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=excel online",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=excel%20online&pc=cosp&ptag=G6C82N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "excel online - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=excel%20online",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=excel+online",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=how to get excel for free",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=how%20to%20get%20excel%20for%20free&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "how to get excel for free - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=how%20to%20get%20excel%20for%20free",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=how+to+get+excel+for+free",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/frmListMessages.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?SearchType=8",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/GeneralError.aspx?aspxerrorpath=/WebDeposits/frmSearch.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmReadMessage.aspx?MessageID=ffa289e0-d1e2-4f1e-969c-7d82376b5b8d",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T01:01:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:31+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmMessaging.aspx?ResidentGUID=cf508abad7ad4caf8b0b4cda965873d9&ReplyID=7e1f2ddd01d94e60a515bc526e08ce8a",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:31+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:31+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmReadMessage.aspx?MessageID=7e1f2ddd-01d9-4e60-a515-bc526e08ce8a",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:31+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallingUnavailable.aspx?ScheduleID=8&FacilityID=39",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallTypeSelect.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmResults.aspx?State=TN&Facility=Knox%20County%20Jail&SearchText=marchbanks&SearchType=2",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmReadMessage.aspx?MessageID=982e93e7-f5e3-4ccd-a3e0-e1546526b460",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/Default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn2.aspx?Email=jambanks91%40gmail.com",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/frmSignIn.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "ddeposits.jailatm.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://jailatm.com/",
+    "PageTitle": "jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/msa/sso",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:45:30+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.msn.com/spartan/dhp",
+    "PageTitle": "Start",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:20+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://tpc.googlesyndication.com/sodar/5k7CCto5.html",
+    "PageTitle": "tpc.googlesyndication.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://tpc.googlesyndication.com/sodar/5k7CCto5.html",
+    "PageTitle": "tpc.googlesyndication.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/watch?v=njFZYPf4xhk",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?popid=2&iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/video_masthead?video_id=8FU9_EI_VN4&textLine1=Text+%E2%80%9CBORDER%E2%80%9D+to+88022+%28Paid+for+by+Donald+J.+Trump+for+President%29&autocrop=0&autoplay_start_time=0&autoplay_duration=30000&channel_banner=1&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=TEXT+88022&layout=material&line_item_id=4910960537&creative_id=138256240139",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&loeid=23769156,23761460,23783454,23757209&scp=ssl%3D1%26dc_yt%3D1%26kauth%3D1%26klg%3Den%26kmyd%3Dvideo-masthead%26ytdevice%3D1%26ytexp%3D9471235,23785256,23784204,23755827,23773174,23783454&d_imp=1&ytdevice=1&pucrd=CggIABAAGAM4AXgC&correlator=3272730582978511",
+    "PageTitle": "pubads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://notifications.google.com/u/0/widget?sourceid=31&hl=en&origin=https%3A%2F%2Fphotos.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#pid=31&_methods=onError%2ConInfo%2ChideNotificationWidget%2CpostSharedMessage%2Creauth%2CsetNotificationWidgetHeight%2CsetNotificationWidgetSize%2CswitchTo%2CnavigateTo%2CsetNotificationText%2CsetNotificationAnimation%2CgetNotificationText%2CvalidateUser%2C_ready&id=I0_1546819123629&_gfid=I0_1546819123629&parent=https%3A%2F%2Fphotos.google.com&pfname=&rpctoken=32975044",
+    "PageTitle": "notifications.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://search6.lycos.com/?q=google photos app&country=us&count=10&pixel=false&embed=false&promo=false",
+    "PageTitle": "search6.lycos.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://us4.search-find-it.com/searchlc/?s_token=Esenp%2fJF37E9U106NwxQty%2bF5TBVhu9xSJUnzTzB9ZE%3d&s_go=ux&s_kwd=google+photos+app&s_na=5&s_rk=google+photos+app&country=us&ispush=1",
+    "PageTitle": "google photos app",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://us.extadomainentry.com/?country=us&kwd=google%20photos%20app&src=otup-www.bing.com",
+    "PageTitle": "us.extadomainentry.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://photos.google.com/apps",
+    "PageTitle": "App downloads - Google Photos",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=google photos app",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=google%20photos%20app&pc=cosp&ptag=G6C3N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "google photos app - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=google%20photos%20app",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=google+photos+app",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmMessaging.aspx?ResidentGUID=cf508abad7ad4caf8b0b4cda965873d9&ReplyID=98d53dd884f84722a9fcd9157ee424cd",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmScheduleExceptions.aspx?ScheduleID=9&FacilityID=39",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallingUnavailable.aspx?ScheduleID=9&FacilityID=39",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmFundPerMinuteCall.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallTypeSelect.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmResults.aspx?State=TN&Facility=Knox+County+Jail&SearchText=marchbanks&SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmReadMessage.aspx?MessageID=98d53dd8-84f8-4722-a9fc-d9157ee424cd",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/Default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn2.aspx?Email=jambanks91%40gmail.com",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/frmSignIn.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://jailatm.com/",
+    "PageTitle": "jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://products.office.com/en-US/compare-all-microsoft-office-products-b?tab=1&OCID=AID737190_SEM_BPTnEsWZ&lnkd=Bing_O365SMB_NI&msclkid=b2d1ab67f31f1a942d54f75560d3efcf",
+    "PageTitle": "products.office.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://cdnssl.clicktale.net/www/tc/crossdomainInclCEC.html?cookie=WRUIDCD03072018",
+    "PageTitle": "cdnssl.clicktale.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://a3698060313.cdn.optimizely.com/client_storage/a3698060313.html",
+    "PageTitle": "a3698060313.cdn.optimizely.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f3c3a8a5373369&origin=https%3A%2F%2Fproducts.office.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://products.office.com/en-US/compare-all-microsoft-office-products-b?tab=2&OCID=AID737190_SEM_BPTnEsWZ&lnkd=Bing_O365SMB_NI&msclkid=b2d1ab67f31f1a942d54f75560d3efcf",
+    "PageTitle": "Compare All Microsoft Office Products | Microsoft Office",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3nJl5XY-47OCljXeXDTF0vDVUCUypB7rsXCHRpEOD-Re85MXcURwXKGH3lUDniVJY1VQKvUQohDw5tOydfo2Y3LvTwI3-SIOzZVQ0644RWg2LiXm2lrGSa6pDeHY7LCZkyizXKCN27J_EQnIlBAjoRpUuNpORm_AEb6oudVvF1uh8W9gV&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZkZG0lMmZjbGslMmY0MTU2NTE2OTIlM2IyMTY4NTM1NTAlM2JqJTNidSUzZG1zJTdlJTI2c3YxJTNkQlBUbkVzV1olMjZzdjIlM2Q3ODk1ODczMTIxNTk0MyUyNnN2MyUzZDI0NzYxeGJyNjI0MjIlMjZzdjQlM2RtaWNyb3NvZnQlMjUyMG9mZmljZSUyNTIwMzY1JTI2c3Y1JTNkYmUlMjZzdjYlM2RjJTI2c3Y3JTNkJTI2c3Y5JTNkMTI2MzMzOTA3Mzk4MDYyNyUyNnN2MTAlM2Rrd2QtNzg5NTg4MzkxMTkzMjYlM2Fsb2MtMTkwJTNiJTNmaHR0cHMlM2ElMmYlMmZwcm9kdWN0cy5vZmZpY2UuY29tJTJmZW4tVVMlMmZjb21wYXJlLWFsbC1taWNyb3NvZnQtb2ZmaWNlLXByb2R1Y3RzLWIlM2Z0YWIlM2QyJTI2T0NJRCUzZEFJRDczNzE5MF9TRU1fQlBUbkVzV1olMjZsbmtkJTNkQmluZ19PMzY1U01CX05JJTI2bXNjbGtpZCUzZCU3Ym1zY2xraWQlN2Q&rlid=206965992b131dcfa88139abb8adfd2f&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=microsoft office 365",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=microsoft+office+365&qs=LS&pq=microsoft+office+&sc=8-17&cvid=12953E2EA72B4F2E8DDC012B92F5D74F&FORM=QBRE&sp=1",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=microsoft+office+365&qs=LS&pq=microsoft+office+&sc=8-17&cvid=12953E2EA72B4F2E8DDC012B92F5D74F&FORM=QBRE&sp=1&sid=10103D693D86645724FC31B53CE965EA&format=snrjson&jsoncbid=0",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=google chrome",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=google%20chrome&pc=cosp&ptag=G6C3N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "google chrome - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=google%20chrome",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=google+chrome",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/secure/Passport.aspx?sso=1&sig=10103D693D86645724FC31B53CE965EA&wa=wsignin1.0",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1546818434&rver=6.7.6631.0&wp=MBI_SSL&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3fsso%3d1%26sig%3d10103D693D86645724FC31B53CE965EA&lc=1033&id=264960&checkda=1&CSRFToken=51bbe9f2-7df8-41c9-8484-93cd8acf662c&aadredir=1",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-12T00:31:14+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.msn.com/spartan/dhp",
+    "PageTitle": "Start",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmReadMessage.aspx?MessageID=2c11c241-95d9-4717-a570-83b453596536",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmConfirmCollectCharge.aspx?MessageGuid=7a19a69243b8477781d1ce40584163a7",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmListMessages.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/Default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn2.aspx?Email=jambanks91%40gmail.com",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/frmSignIn.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "ddeposits.jailatm.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://jailatm.com/",
+    "PageTitle": "jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://secure.skype.com/portal/profile",
+    "PageTitle": "Profile | Skype My Account",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://secure.skype.com/my/caller-id",
+    "PageTitle": "secure.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://secure.skype.com/portal/main-page?page=callerId",
+    "PageTitle": "Manage features | Skype My Account",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://secure.skype.com/portal/overview",
+    "PageTitle": "Skype My Account",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://secure.skype.com/portal/login?return_url=https%3A%2F%2Fsecure.skype.com%2Fportal%2Foverview",
+    "PageTitle": "secure.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.skype.com/login/microsoft?client_id=360605&redirect_uri=https%3A%2F%2Fsecure.skype.com%2Fportal%2Flogin%3Freturn_url%3Dhttps%253A%252F%252Fsecure.skype.com%252Fportal%252Foverview&response_type=postgrant&state=ab3bf4452298eb4155713d17",
+    "PageTitle": "login.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://lw.skype.com/login/oauth/proxy?client_id=360605&redirect_uri=https%3A%2F%2Fsecure.skype.com%2Fportal%2Flogin%3Freturn_url%3Dhttps%253A%252F%252Fsecure.skype.com%252Fportal%252Foverview&response_type=postgrant&state=ab3bf4452298eb4155713d17&site_name=lw.skype.com&wa=wsignin1.0",
+    "PageTitle": "lw.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1546720745&rver=7.0.6730.0&wp=MBI_SSL&wreply=https%3A%2F%2Flw.skype.com%2Flogin%2Foauth%2Fproxy%3Fclient_id%3D360605%26redirect_uri%3Dhttps%253A%252F%252Fsecure.skype.com%252Fportal%252Flogin%253Freturn_url%253Dhttps%25253A%25252F%25252Fsecure.skype.com%25252Fportal%25252Foverview%26response_type%3Dpostgrant%26state%3Dab3bf4452298eb4155713d17%26site_name%3Dlw.skype.com&lc=1033&id=293290&mkt=en-US&psi=skype&lw=1&cobrandid=2befc4b5-19e3-46e8-8347-77317a16a5a5&client_flight=ReservedFlight33%2CReservedFlight67",
+    "PageTitle": "Continue",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.skype.com/myaccount",
+    "PageTitle": "go.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://a.lw.skype.com/Login/silent/MsaCallback?site_name=lw.skype.com&client_id=815617&response_type=postmessage&redirect_uri=https%3a%2f%2fwww.skype.com&session_id=UAZI7Fd5yTJjdxUzq4nq&wa=wsignin1.0",
+    "PageTitle": "a.lw.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&checkda=1&ct=1546720736.93506&rver=7.0.6730.0&wp=MBI_SSL&wreply=https%3a%2f%2fa.lw.skype.com%2fLogin%2fsilent%2fMsaCallback%3fsite_name%3dlw.skype.com%26client_id%3d815617%26response_type%3dpostmessage%26redirect_uri%3dhttps%253a%252f%252fwww.skype.com%26session_id%3dUAZI7Fd5yTJjdxUzq4nq&lc=1033&id=293290",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.skype.com/en/thank-you/",
+    "PageTitle": "Thanks for downloading Skype",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.skype.com/thank.you",
+    "PageTitle": "go.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.skype.com/skype.download",
+    "PageTitle": "go.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&checkda=1&ct=1546720718&rver=6.7.6643.0&wp=NFS_1wk_compact_SSL&wreply=https:%2F%2Fweb.vortex.data.microsoft.com%2Fcollect%2Fv1%2Fasm.js&lc=1033&id=292888",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://a.lw.skype.com/Login/silent/MsaCallback?site_name=lw.skype.com&client_id=815617&response_type=postmessage&redirect_uri=https%3a%2f%2fwww.skype.com&session_id=W6wyhGX3pDgc2GfDd7Wz&wa=wsignin1.0",
+    "PageTitle": "a.lw.skype.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&checkda=1&ct=1546720717.01495&rver=7.0.6730.0&wp=MBI_SSL&wreply=https%3a%2f%2fa.lw.skype.com%2fLogin%2fsilent%2fMsaCallback%3fsite_name%3dlw.skype.com%26client_id%3d815617%26response_type%3dpostmessage%26redirect_uri%3dhttps%253a%252f%252fwww.skype.com%26session_id%3dW6wyhGX3pDgc2GfDd7Wz&lc=1033&id=293290",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.skype.com/en/",
+    "PageTitle": "Skype | Communication tool for free calls and chat",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://search6.lycos.com/?q=skype support&country=us&count=10&pixel=false&embed=false&promo=false",
+    "PageTitle": "search6.lycos.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://us6.search-find-it.com/searchlc/?s_token=L1zxoAM%2f7zZ5XdoD8BgujFyWSJqT5G0Y999%2bENiAAGc%3d&s_go=ux&s_kwd=skype+support&s_na=5&s_rk=skype+support&country=us&ispush=1",
+    "PageTitle": "skype support",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://us.extadomainentry.com/?country=us&kwd=skype%2Bsupport&src=otup-www.bing.com",
+    "PageTitle": "us.extadomainentry.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://support.skype.com/en/skype/windows-desktop/",
+    "PageTitle": "Skype Support for Skype for Windows desktop | Skype Support",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://embed-us-b-direct.search-find-it.com/searchlc/?s_kwd=skype%2Bsupport&s_rk=skype%2Bsupport&country=us&count=5&bname=1&embed=true&iidpk=20866104&extidpk=2954",
+    "PageTitle": "embed-us-b-direct.search-find-it.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=skype support",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=skype+support&filters=ufn%3a%22skype+support%22+sid%3a%22e23fe22e-3d51-3a99-41b4-5cec037df3a2%22&form=EDGHPT&qs=MB&cvid=db05a9593c9e4eecb919c98d9a34929a&cc=US&setlang=en-US",
+    "PageTitle": "skype support - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.msn.com/spartan/dhp",
+    "PageTitle": "Start",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.normandoh.com/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z",
+    "PageTitle": "Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://search6.lycos.com/?q=greenville tech journeyman electrician review class&country=us&count=5&pixel=false&embed=true&promo=false",
+    "PageTitle": "search6.lycos.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://embed-us-fl-direct.search-find-it.com/searchlc/?s_kwd=greenville%20tech%20journeyman%20electrician%20review%20class&s_rk=greenville%20tech%20journeyman%20electrician%20review%20class&country=us&count=5&bname=1&embed=true&iidpk=20866104&extidpk=2954",
+    "PageTitle": "embed-us-fl-direct.search-find-it.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/search?q=greenville%20tech%20journeyman%20electrician%20review%20class",
+    "PageTitle": "greenville tech journeyman electrician review class - Google Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.trovi.com/?gd=SY1001007&SearchSource=69&n=3&src=bacembed&q=greenville%20tech%20journeyman%20electrician%20review%20class&src=www.bing.com",
+    "PageTitle": "www.trovi.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.gvltec.edu/academics_learning/academic_catalog/business-technology/Electrical_Engineering_Track.pdf",
+    "PageTitle": "www.gvltec.edu",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.gvltec.edu/academics_learning/business_technology/engineering_transfer/index.html",
+    "PageTitle": "Engineering Transfer Tracks | Greenville Technical College",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.gvltec.edu/academics_learning/areas-of-study.html",
+    "PageTitle": "Academic Areas of Study | Greenville Technical College",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.gvltec.edu/edct/industrial_manufacturing/electrical-training.html",
+    "PageTitle": "Electrical Training | Greenville Technical College",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=greenville tech journeyman electrician review class",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=greenville%20tech%20journeyman%20electrician%20review%20class&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "greenville tech journeyman electrician review class - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=greenville%20tech%20journeyman%20electrician%20review%20class",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=greenville+tech+journeyman+electrician+review+class",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ed2go.com/greenvilletech/SearchResults.aspx?Sort=NAME&SearchTerms=journeyman+electrician",
+    "PageTitle": "Greenville Technical College: Search Results",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:44:45+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ed2go.com/greenvilletech/SearchResults.aspx?Sort=NAME&PrevSort=RELEVANCE&CurrPage=1",
+    "PageTitle": "www.ed2go.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ed2go.com/greenvilletech/SearchResults.aspx?Sort=NAME&PrevSort=RELEVANCE&CurrPage=1",
+    "PageTitle": "Greenville Technical College: Search Results",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ed2go.com/greenvilletech/SearchResults.aspx",
+    "PageTitle": "Greenville Technical College: Search Results",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE",
+    "PageTitle": "bid.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.ed2go.com/greenvilletech/",
+    "PageTitle": "Greenville Technical College",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.gvltec.edu/academics_learning/online/index.html",
+    "PageTitle": "Online Learning | Greenville Technical College",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=greenville tech online courses",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/afs/ads?q=greenville%20tech%20online%20courses&lo=false&adpage=1&adrep=1&r=m&client=infospace-info&channel=ch574%2Bch4333&hl=en&adtest=off&adsafe=medium&type=0&psid=2780558427&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=p3%7Cn1&ad=n1p3&nocache=6141546720094169&num=0&output=uds_ads_only&v=3&adext=as1&bsl=8&u_his=1&u_tz=-300&dt=1546720094174&u_w=1366&u_h=768&biw=1350&bih=651&psw=1350&psh=1389&frm=0&uio=va1lo0sr0sl1hc-st17sd13sv14da0-st17sd13sv14da0&jsv=16327&rurl=https%3A%2F%2Fwww.info.com%2Fserp%3Fq%3Dgreenville%2520tech%2520online%2520courses%26segment%3Dinfo.0574%26s1aid%3D1567166291%26s1cid%3D1482221208%26s1agid%3D65840750868%26s1kid%3Dkwd-5073190554%26utm_source%3Dadwords%26gclid%3DCjwKCAiAyMHhBRBIEiwAkGN6fPz0Wqw-IU_rsE0UxcEhSMHczACTFqk4l4bg-HsHknjj1lB3thyowxoCuPYQAvD_BwE&referer=https%3A%2F%2Fwww.google.com%2F#master-1",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.info.com/serp?q=greenville%20tech%20online%20courses&segment=info.0574&s1aid=1567166291&s1cid=1482221208&s1agid=65840750868&s1kid=kwd-5073190554&utm_source=adwords&gclid=CjwKCAiAyMHhBRBIEiwAkGN6fPz0Wqw-IU_rsE0UxcEhSMHczACTFqk4l4bg-HsHknjj1lB3thyowxoCuPYQAvD_BwE",
+    "PageTitle": "greenville tech online courses - info.com - Search The Web Web Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/aclk?sa=l&ai=DChcSEwj6hrmgvdffAhWbusAKHUdQA8YYABALGgJpbQ&sig=AOD64_2kUCoqBJyYUUBQHJh74Bj6qTE5Gw&adurl=&q=&res_url=https%3A%2F%2Fwww.pronto.com%2Fshopping%3Fqo%3DsemQuery%26ad%3DsemA%26q%3Dgreenville%2520tech%2520online%2520courses%26o%3D758474%26ag%3Dfw2%26an%3Dmsn_s%26rch%3Dtest_104&rurl=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dgreenville%2520tech%2520course%2520catalog%26pc%3Dcosp%26ptag%3DG6C999N1234D120118A98C4AF66BD%26form%3DCONBDF%26conlogo%3DCT3210127&nb=0&nm=104&is=627x430&nx=266&ny=14&clkt=327&bg=!CQqlChJE2hBJr8iAu80CAAAAlVIAAAAnmQE1qV9UmKUhIt-w9fMndcsEnT2GpG_8bel0aQouH8pecX_Oxdip3c4APJQQ4gUFEBEciAutsba58woP-pEUF26hENOibXk7216x6grcKubvKxtkXHA4MKbsf6_gW-W-1BHmDTB_hDC3H_mmoV40rAJBVGxxoF616zYFzKUHMH_OKLkNJzl6Iw-128eOw4U63h9FOp5OQqVZTkPAoqcgkXYkIcbtv2oS6Cx884NaOpsj1oFYuU5S4zxL_rJr7xUT72HuD2iFuLvhhQy4L31d3B357pqsFCD5LTNhVCHW5rWM_xlmjzogxW-8ZYn_hJk9-QvsaoBobIv8SqxNAOcRrQCJOkO01AkAJZSczyUx2pja7oJLqGYcubGf4w87sVYdVdauY4JiacuL-YfUayClDOOJLy1mymJO",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/afs/ads?q=greenville%20tech%20online%20courses&oe=utf-8&ie=utf-8&lo=false&adpage=1&adrep=4&r=m&client=aj-pronto-test2&channel=test_104&hl=en&adtest=off&adsafe=medium&type=0&psid=3179057698&fexp=21404&format=p4%7Cn5&ad=n5p4&nocache=4001546720080294&num=0&output=uds_ads_only&v=3&adext=as1%2Csr1&bsl=10&u_his=18&u_tz=-300&dt=1546720080298&u_w=1366&u_h=768&biw=1350&bih=651&psw=1350&psh=437&frm=0&uio=lo0va1sr1sl1hc-st18sd13sv14sa13lt24ld18lv18da1-st18sd13sv14sa13lt24ld18lv18da1&jsv=16327&rurl=https%3A%2F%2Fwww.pronto.com%2Fshopping%3Fqo%3DsemQuery%26ad%3DsemA%26q%3Dgreenville%2520tech%2520online%2520courses%26o%3D758474%26ag%3Dfw2%26an%3Dmsn_s%26rch%3Dtest_104&referer=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dgreenville%2520tech%2520course%2520catalog%26pc%3Dcosp%26ptag%3DG6C999N1234D120118A98C4AF66BD%26form%3DCONBDF%26conlogo%3DCT3210127#master-1",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/afs/ads/i/iframe.html#slave-1-1",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pronto.com/shopping?qo=semQuery&ad=semA&q=greenville%20tech%20online%20courses&o=758474&ag=fw2&an=msn_s&rch=test_104",
+    "PageTitle": "Pronto.com: Search product news, reviews, and information",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3PALTYF8RI8QMSGr_kI4pxTVUCUxdkx0CsCB3_BdmqnfWS7hBpn6ZdoM6OWekEgCPP7C8V9WY2IjroVt5v7rKsNRktuHu6fIP6NsIdphONbi7MI_1WDCpi4ZBQ4DIiaQJXqProcUeDAD9oV8kJCsS62LiPt-CUU6MaugVNXu8sNFlVsLG&u=aHR0cHMlM2ElMmYlMmZ3d3cucHJvbnRvLmNvbSUyZmFyJTNmcSUzZGdyZWVudmlsbGUlMjUyMHRlY2glMjUyMG9ubGluZSUyNTIwY291cnNlcyUyNm8lM2Q3NTg0NzQlMjZyY2glM2R0ZXN0XzEwNA&rlid=5ef4f2e4956212edcdefaed586551d5f&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/cfc?term=greenville tech course catalog",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=greenville%20tech%20course%20catalog&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "greenville tech course catalog - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=greenville%20tech%20course%20catalog",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=greenville+tech+course+catalog",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmMessaging.aspx?ResidentGUID=cf508abad7ad4caf8b0b4cda965873d9",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmResults.aspx?State=TN&Facility=Knox+County+Jail&SearchText=marchbanks&Email=yes&SearchType=1",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?Email=yes",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmComposeMessage.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmAccount.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallingUnavailable.aspx?ScheduleID=9&FacilityID=39",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmFundPerMinuteCall.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmCallTypeSelect.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmResults.aspx?State=TN&Facility=Knox+County+Jail&SearchText=marchbanks&SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSearch.aspx?SearchType=2",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/Default.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/WebDeposits/frmSignIn2.aspx?Email=jambanks91%40gmail.com",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/frmSignIn.aspx",
+    "PageTitle": "deposits.jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://subwayblaze.com/ext/ca?iid=a431c1f6-70c7-4f18-95c6-c87a5a9d3b68",
+    "PageTitle": "subwayblaze.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://deposits.jailatm.com/webdeposits/default.aspx",
+    "PageTitle": "JailATM™",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "ddeposits.jailatm.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://jailatm.com/",
+    "PageTitle": "jailatm.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/secure/Passport.aspx?sso=1&sig=25E19D3E968D64D80D0491E5970F6560&wa=wsignin1.0",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1546719314&rver=6.7.6631.0&wp=MBI_SSL&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3fsso%3d1%26sig%3d25E19D3E968D64D80D0491E5970F6560&lc=1033&id=264960&checkda=1&CSRFToken=efe5efa3-423b-43c0-8918-2f55f09cd093&aadredir=1",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2019-01-05T20:29:36+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.msn.com/spartan/dhp",
+    "PageTitle": "Start",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/",
+    "PageTitle": "Save 33% on PLAYERUNKNOWN'S BATTLEGROUNDS on Steam",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://store.steampowered.com/genre/Free%20to%20Play/",
+    "PageTitle": "Free To Play Games on Steam",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://store.steampowered.com/",
+    "PageTitle": "Welcome to Steam",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://steampowered.com/",
+    "PageTitle": "steampowered.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.facebook.com/v2.5/plugins/like.php?app_id=114593902037957&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fj-GHT1gpo6-.js%3Fversion%3D43%23cb%3Df99f5722450838%26domain%3Dpixabay.com%26origin%3Dhttps%253A%252F%252Fpixabay.com%252Ff144740aa794afc%26relation%3Dparent.parent&container_width=270&href=https%3A%2F%2Fwww.facebook.com%2Fpixabay&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=false",
+    "PageTitle": "www.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.facebook.com/v2.5/plugins/like.php?app_id=114593902037957&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fj-GHT1gpo6-.js%3Fversion%3D43%23cb%3Df134b9c3fee44ec%26domain%3Dpixabay.com%26origin%3Dhttps%253A%252F%252Fpixabay.com%252Ff144740aa794afc%26relation%3Dparent.parent&container_width=0&href=https%3A%2F%2Fwww.facebook.com%2Fpixabay&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=false",
+    "PageTitle": "www.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f144740aa794afc&origin=https%3A%2F%2Fpixabay.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T20:30:43+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pixabay.com/en/bridge-scotland-tourism-highlands-3732423/",
+    "PageTitle": "Bridge Scotland Tourism · Free photo on Pixabay",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.facebook.com/v2.5/plugins/like.php?app_id=114593902037957&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fj-GHT1gpo6-.js%3Fversion%3D43%23cb%3Df953d80341980c%26domain%3Dpixabay.com%26origin%3Dhttps%253A%252F%252Fpixabay.com%252Ff338b0afa66e5f4%26relation%3Dparent.parent&container_width=0&href=https%3A%2F%2Fwww.facebook.com%2Fpixabay&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=false",
+    "PageTitle": "www.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.facebook.com/v2.5/plugins/like.php?app_id=114593902037957&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fj-GHT1gpo6-.js%3Fversion%3D43%23cb%3Dfc80905200fe1%26domain%3Dpixabay.com%26origin%3Dhttps%253A%252F%252Fpixabay.com%252Ff338b0afa66e5f4%26relation%3Dparent.parent&container_width=270&href=https%3A%2F%2Fwww.facebook.com%2Fpixabay&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=false",
+    "PageTitle": "www.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f338b0afa66e5f4&origin=https%3A%2F%2Fpixabay.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pixabay.com/en/bridge-scotland-tourism-highlands-3732423/",
+    "PageTitle": "Bridge Scotland Tourism · Free photo on Pixabay",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.facebook.com/v2.5/plugins/like.php?app_id=114593902037957&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fj-GHT1gpo6-.js%3Fversion%3D43%23cb%3Df1a21bd18f1b16c%26domain%3Dpixabay.com%26origin%3Dhttps%253A%252F%252Fpixabay.com%252Ff1692b41ece6d3c%26relation%3Dparent.parent&container_width=0&href=https%3A%2F%2Fwww.facebook.com%2Fpixabay&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=false",
+    "PageTitle": "www.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.facebook.com/v2.5/plugins/like.php?app_id=114593902037957&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fj-GHT1gpo6-.js%3Fversion%3D43%23cb%3Df3205f468776c6%26domain%3Dpixabay.com%26origin%3Dhttps%253A%252F%252Fpixabay.com%252Ff1692b41ece6d3c%26relation%3Dparent.parent&container_width=270&href=https%3A%2F%2Fwww.facebook.com%2Fpixabay&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=false",
+    "PageTitle": "www.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f1692b41ece6d3c&origin=https%3A%2F%2Fpixabay.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pixabay.com/en/cathedral-cloisters-harry-potter-2286910/",
+    "PageTitle": "Cathedral Cloisters Harry Potter · Free photo on Pixabay",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pixabay.com/en/photos/harry%20potter/",
+    "PageTitle": "Harry Potter Images · Pixabay · Download Free Pictures",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pixabay.com/en/photos/background/",
+    "PageTitle": "Background Images · Pixabay · Download Free Pictures",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=backgrounds&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "backgrounds - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=backgrounds",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=backgrounds",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://udn-plus.cedexis-test.com/img/35935/iuni4.html?rnd=-1-1-13960-0-0-35935-718792338-_CgJqMRAUGGYiBQgBEIhtKJLN39YCMMGqXjjljfzgBUDE5LGpCkoVCAEQ3wEYk50BIISAgMAEKJqAgKAEUABaCggAEAAYACAAKABgAGoaYnV0dG9uLXdvcmtlcjMuaWFkLmh2LnByb2SCARUIARDfARiTnQEgiYCAwAQoqICAoASIAcL8xuwNkAEAmAEA",
+    "PageTitle": "udn-plus.cedexis-test.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://assets.tumblr.com/assets/html/iframe/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9",
+    "PageTitle": "assets.tumblr.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://assets.tumblr.com/analytics.html?dfab06320413a6a34dbca419c4c70f2c#http://t-e-x-a-s.tumblr.com",
+    "PageTitle": "assets.tumblr.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://t-e-x-a-s.tumblr.com/post/109924769288/instagram-luluvs",
+    "PageTitle": "Obliviate",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/818247826018129694/",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?x=0&y=0&w=564&h=829",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?x=0&y=0&w=564&h=829.6521739130435",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?x=16&y=0&w=531&h=824",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?x=16&y=0&w=515&h=829.6521739130435",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?x=16&y=0&w=548&h=687",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?x=16&y=16&w=530&h=671",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/visual-search/?animation=1",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://mypoppet.com.au/living/the-making-of-harry-potter-at-warner-bros-studio-tour-london/",
+    "PageTitle": "mypoppet.com.au",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://mypoppet.com.au/living/2015/07/the-making-of-harry-potter-at-warner-bros-studio-tour-london/",
+    "PageTitle": "mypoppet.com.au",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/pin/799881583793269112/",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fwww.pinterest.com&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en._hxuXxdRXI8.O%2Fam%3DQQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO8kUWucn-xAWKax-NjNuO__04Qew%2Fm%3D__features__#rpctoken=254503701&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f197f24602bb59&origin=https%3A%2F%2Fwww.pinterest.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/fb.html",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.pinterest.com/explore/harry-potter-wallpaper/",
+    "PageTitle": "www.pinterest.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=harry%20potter%20wallpapers&pc=cosp&ptag=G6C111N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "harry potter wallpapers - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=harry%20potter%20wallpapers",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=harry+potter+wallpapers",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T04:03:10+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.normandoh.com/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z",
+    "PageTitle": "Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T02:43:00+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "dwww.bing.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T02:43:00+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z&category=web&q=pc%20backgrounds",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T02:43:00+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.normandoh.com/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z",
+    "PageTitle": "Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T02:43:00+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://support.bluestacks.com/hc/en-us/articles/360014581811-System-requirements-for-BlueStacks-4",
+    "PageTitle": "System requirements for BlueStacks 4 – BlueStacks Support",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T02:43:00+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://cloud.bluestacks.com/bs3/help_articles?oem=bgp&prod_ver=4.32.90.1001&eng_ver=4.32.90.1001&guid=01f20c7f-4e53-137e-94a1-c133ae97f535&locale=en-US&campaign_md5=bedfb5c03573387ff1f320ce341dd1fb&installation_type=FullEdition&article=bs3_nougat_min_requirements",
+    "PageTitle": "cloud.bluestacks.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/embed/8CdcCD5V-d8?autoplay=1&enablejsapi=1&origin=https://www.bing.com&rel=0",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/videos/search?q=new+eminem&view=detail&mid=61A10901B0A2AD01E1B861A10901B0A2AD01E1B8&FORM=VIRE",
+    "PageTitle": "Eminem - Venom - Bing video",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/embed/56KYMMGudcU?autoplay=1&enablejsapi=1&origin=https://www.bing.com&rel=0",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/videos/search?q=new+eminem&view=detail&mid=AA832DDE241DAD55723AAA832DDE241DAD55723A&FORM=VIRE",
+    "PageTitle": "Eminem - Untouchable (Audio) - Bing video",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=new%20eminem&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "new eminem - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=new%20eminem",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=new+eminem",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=remixes&pc=cosp&ptag=G6C19N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "remixes - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=remixes",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=remixes",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/results?search_query=eminem",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&loeid=23761460,23769156,23783454,23757209,23771404&scp=ssl%3D1%26dc_yt%3D1%26kauth%3D1%26klg%3Den%26kmyd%3Dvideo-masthead%26ytdevice%3D1%26ytexp%3D9471235,23785256,23784204,23771404,23755827,23773174,23783454&d_imp=1&ytdevice=1&pucrd=CggIABAAGAM4AXgC&correlator=3956832165594313",
+    "PageTitle": "pubads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://www.youtube.com/",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/embed/2dyjIkAF30c?autoplay=1&enablejsapi=1&origin=https://www.bing.com&rel=0",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/videos/search?q=pubg+on+pc&view=detail&mid=5E3B7FFFD794CE2899705E3B7FFFD794CE289970&FORM=VIRE",
+    "PageTitle": "how to download pubg on pc for full version - Bing video",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg%20on%20pc&pc=cosp&ptag=G6C999N1234D120118A98C4AF66BD&form=CONBDF&conlogo=CT3210127",
+    "PageTitle": "pubg on pc - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://fnd.normandoh.com/query/p/to/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&category=web&q=pubg%20on%20pc",
+    "PageTitle": "fnd.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg&q=pubg+on+pc",
+    "PageTitle": "go.normandoh.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://go.normandoh.com/?DE2501142C246334ABE70755F03780E6=H1xAXFBMXlxZU1QEEUleSAoRAjMIEFJfXlBGW1NEXFleUEBeV0BdSA4MGwhcNikrKScwKidEX15cUUQtUFRPTktBJShMIzdfWiBBVCU-WjYyVDFZJ0JYV1xVQy5Z",
+    "PageTitle": "Search",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7417976469007033&output=html&h=90&slotname=1787189703&adk=1027023538&adf=1718106084&w=796&fwrn=4&lmt=1545519932&pucrd=CgwIABAAGAMgACgAOAF4Aw&rafmt=10&guci=2.2.0.0.2.2.0.0&format=796x90_0ads_al&url=https%3A%2F%2Fwww.stalkworld.com%2Fpubg-mobile-for-pc-free-download-windows10-laptop%2F&flash=0&fwr=0&wgl=1&adsid=AKTT1HWA2lLJz5WGVo6jXIcfauA9HBbziwhAA2h5-g9iwwiaqfgpIkVZYw&dt=1545524178262&bpp=53&bdt=1990&fdt=1595&idt=247&shv=r20181205&cbv=r20180604&saldr=aa&abxe=1&prev_fmts=796x90_0ads_al%2C796x90&correlator=1370838666025&frm=20&pv=1&ga_vid=396135475.1545524179&ga_sid=1545524179&ga_hid=658289374&ga_fc=0&icsg=721206524&dssz=32&mdo=0&mso=0&u_tz=-300&u_his=12&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=90&ady=757&biw=1350&bih=651&scr_x=0&scr_y=0&eid=21060853%2C21062571%2C214678000%2C214679000%2C410075081&oid=3&ref=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dpubg%2Bon%2Bwindows%2B10%2Bfor%2Bfree%26FORM%3DQSRE3&loc=https%3A%2F%2Fwww.stalkworld.com%2Fpubg-mobile-for-pc-free-download-windows10-laptop%2F&rx=0&eae=0&fc=656&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=144&bc=9&jar=2018-12-23-00&ifi=1&uci=1.rc34jx86x7hh&xpc=9cBZJU2JMG&p=https%3A//www.stalkworld.com&dtd=1616",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7417976469007033&output=html&h=90&slotname=1787189703&adk=559681385&adf=1770369249&w=796&fwrn=4&lmt=1545519932&pucrd=CgwIABAAGAMgACgAOAF4Aw&rafmt=10&guci=2.2.0.0.2.2.0.0&format=796x90_0ads_al&url=https%3A%2F%2Fwww.stalkworld.com%2Fpubg-mobile-for-pc-free-download-windows10-laptop%2F&flash=0&fwr=0&wgl=1&adsid=AKTT1HWA2lLJz5WGVo6jXIcfauA9HBbziwhAA2h5-g9iwwiaqfgpIkVZYw&dt=1545524178314&bpp=15&bdt=2048&fdt=1590&idt=195&shv=r20181205&cbv=r20180604&saldr=aa&abxe=1&prev_fmts=796x90_0ads_al%2C796x90%2C796x90_0ads_al&correlator=1370838666025&frm=20&pv=1&ga_vid=396135475.1545524179&ga_sid=1545524179&ga_hid=658289374&ga_fc=0&icsg=721206524&dssz=32&mdo=0&mso=0&u_tz=-300&u_his=12&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=90&ady=1542&biw=1350&bih=651&scr_x=0&scr_y=0&eid=21060853%2C21062571%2C214678000%2C214679000%2C410075081&oid=3&ref=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dpubg%2Bon%2Bwindows%2B10%2Bfor%2Bfree%26FORM%3DQSRE3&rx=0&eae=0&fc=656&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&ppjl=u&pfx=0&fu=144&bc=9&jar=2018-12-23-00&ifi=3&uci=3.lowmbxmmaylx&xpc=we7xJYccag&p=https%3A//www.stalkworld.com&dtd=1611",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/html/r20181205/r20180604/zrt_lookup.html#",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.stalkworld.com/pubg-mobile-for-pc-free-download-windows10-laptop/",
+    "PageTitle": "PUBG Mobile For PC (Windows 10 & Mac) Download - Android Games",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/open/installsrch?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg",
+    "PageTitle": "installsrch",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://tpc.googlesyndication.com/sodar/Beq5YUTp.html",
+    "PageTitle": "tpc.googlesyndication.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://www.absoluteconverter.com/thankyou.html",
+    "PageTitle": "Thank You",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+on+windows+10+for+free&FORM=QSRE3",
+    "PageTitle": "pubg on windows 10 for free - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/open/installsrch?",
+    "PageTitle": "installsrch",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:13+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://www.absoluteconverter.com/download_page/?gclid=EAIaIQobChMI2JmfzNW03wIVCTtPCh11MA4jEAEYASAAEgJ2v_D_BwE",
+    "PageTitle": "Absolute Converter",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/open/installsrch?",
+    "PageTitle": "installsrch",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://go.normandoh.com/open/installsrch?629DDA66BC3A6E7D7E84970717682F5F=H1xAXFBMXlxZU1QNEQQwBw9cQ1lQQFhcW1JFWVBGXVhfU1QJDB0LUyknNy4nNikoW1FCW1FCLl9LQVJMQSMrQzw5Q10gR1cqIVQqNVQ3WihdVktbVUUtVg",
+    "PageTitle": "installsrch",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://www.absoluteconverter.com/download_page/js/indicators/app/edge/index.html",
+    "PageTitle": "www.absoluteconverter.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://www.absoluteconverter.com/download_page/?gclid=EAIaIQobChMI2JmfzNW03wIVCTtPCh11MA4jEAEYASAAEgJ2v_D_BwE",
+    "PageTitle": "Absolute Converter",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/embed/CIkinuljyv4?rel=0&L=0&M=0&K=1&enablejsapi=1&origin=https%3A%2F%2Fwww.google.com&widgetid=1",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7462401756866309&output=html&h=90&slotname=7640222903&adk=2273245843&adf=1711803138&w=970&lmt=1545524008&guci=2.2.0.0.2.2.0.0&url=https%3A%2F%2Fwww.10appstore.net%2Fwin10apps%2Fpubg%2F336612%2Fdownload.html&flash=0&wgl=1&dt=1545524008409&bpp=16&bdt=494&fdt=78&idt=-M&shv=r20181205&cbv=r20180604&saldr=sa&abxe=1&prev_slotnames=7640222903&correlator=5168561957863&frm=20&pv=1&ga_vid=621668995.1545523996&ga_sid=1545524008&ga_hid=2139449995&ga_fc=0&icsg=2789034&dssz=18&mdo=0&mso=0&u_tz=-300&u_his=1&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=98&ady=342&biw=1366&bih=651&scr_x=0&scr_y=0&eid=21060853%2C26835105%2C410075081&oid=3&ref=https%3A%2F%2Fwww.10appstore.net%2Fpubg%2Fwin10apps.html&rx=0&eae=0&fc=656&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=%7C%7CeoE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=9&ifi=2&uci=2.qz3kve5vqm4v&xpc=tk33B3HbAk&p=https%3A//www.10appstore.net&dtd=90",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7462401756866309&output=html&h=90&slotname=7640222903&adk=3255412172&adf=1900537198&w=970&lmt=1545524008&guci=2.2.0.0.2.2.0.0&url=https%3A%2F%2Fwww.10appstore.net%2Fwin10apps%2Fpubg%2F336612%2Fdownload.html&flash=0&wgl=1&dt=1545524008139&bpp=51&bdt=215&fdt=176&idt=166&shv=r20181205&cbv=r20180604&saldr=sa&abxe=1&correlator=5168561957863&frm=20&pv=2&ga_vid=621668995.1545523996&ga_sid=1545524008&ga_hid=2139449995&ga_fc=0&icsg=691882&dssz=17&mdo=0&mso=0&u_tz=-300&u_his=1&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=183&ady=184&biw=1366&bih=651&scr_x=0&scr_y=0&eid=21060853%2C26835105%2C410075081&oid=3&ref=https%3A%2F%2Fwww.10appstore.net%2Fpubg%2Fwin10apps.html&rx=0&eae=0&fc=656&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=d%7C%7CoeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=9&ifi=1&uci=1.du7j6nncjtwq&xpc=y0P2NCzxXV&p=https%3A//www.10appstore.net&dtd=192",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.10appstore.net/win10apps/pubg/336612/download.html",
+    "PageTitle": "www.10appstore.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/chrome/?hl=en&brand=ZKTG&utm_source=en-material-callout&utm_medium=material-callout&utm_campaign=edge-play-material-try-chrome",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7462401756866309&output=html&h=90&slotname=6805631309&adk=804309327&adf=4071391581&w=180&lmt=1545524002&pucrd=CgwIABAAGAMgACgAOAF4Aw&guci=2.2.0.0.2.2.0.0&url=https%3A%2F%2Fwww.10appstore.net%2Fpubg%2Fwin10apps.html&flash=0&wgl=1&adsid=AKTT1HWf7H4uXYVRI23xRYYkFcbqrv82ewzk3QHOrm6mjPVsDv6iqu_CIQ&dt=1545524002190&bpp=15&bdt=6951&fdt=15&idt=-M&shv=r20181205&cbv=r20180604&saldr=sa&abxe=1&prev_fmts=0x0&prev_slotnames=7640222903&nras=1&correlator=2074847424394&frm=20&pv=1&ga_vid=960344603.1545523996&ga_sid=1545523996&ga_hid=581908863&ga_fc=0&icsg=44710538&dssz=21&mdo=0&mso=0&u_tz=-300&u_his=11&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=83&ady=313&biw=1366&bih=651&scr_x=0&scr_y=0&eid=21060853%2C26835106%2C410075081&oid=3&ref=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dpubg%2Bon%2Bwindows%2B10%2Bfor%2Bfree%26FORM%3DQSRE3&rx=0&eae=0&fc=1936&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=%7C%7CoeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=9&jar=2018-12-23-00&ifi=2&uci=2.vam2k40apqc&xpc=caDgH7PwI6&p=https%3A//www.10appstore.net&dtd=26",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.google.com/url?q=https://www.google.com/chrome/browser/%3Fhl%3Den%26brand%3DZKTG%26utm_source%3Den-material-callout%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dedge-play-material-try-chrome&source=hpp&id=19008551&ct=7&usg=AFQjCNHw1EDsSWsSzhby25n_K-OBj9cqvQ",
+    "PageTitle": "www.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://notifications.google.com/u/0/widget?sourceid=78&hl=en&origin=https://play.google.com&uc=1&usegapi=1&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__&pli=1#pid=78&_methods=onError%2ConInfo%2ChideNotificationWidget%2CpostSharedMessage%2Creauth%2CsetNotificationWidgetHeight%2CsetNotificationWidgetSize%2CswitchTo%2CnavigateTo%2CsetNotificationText%2CsetNotificationAnimation%2CgetNotificationText%2CvalidateUser%2C_ready&id=I1_1545521913103&_gfid=I1_1545521913103&parent=https%3A%2F%2Fplay.google.com&pfname=&rpctoken=15461155",
+    "PageTitle": "notifications.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7462401756866309&output=html&adk=1812271804&adf=3025194257&lmt=1545523996&plat=1%3A32776%2C2%3A32776%2C8%3A32776%2C9%3A32776%2C16%3A8388608%2C30%3A1081344&guci=2.2.0.0.2.2.0.0&format=0x0&url=https%3A%2F%2Fwww.10appstore.net%2Fpubg%2Fwin10apps.html&ea=0&flash=0&pra=5&wgl=1&dt=1545523996016&bpp=32&bdt=763&fdt=189&idt=179&shv=r20181205&cbv=r20180604&saldr=aa&abxe=1&nras=1&correlator=2074847424394&frm=20&pv=2&ga_vid=960344603.1545523996&ga_sid=1545523996&ga_hid=581908863&ga_fc=0&icsg=172968&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=11&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=0&ady=0&biw=1366&bih=651&scr_x=0&scr_y=0&eid=21060853%2C26835106%2C410075081&oid=3&ref=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dpubg%2Bon%2Bwindows%2B10%2Bfor%2Bfree%26FORM%3DQSRE3&rx=0&eae=2&fc=1936&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=%7C%7Cs%7C&abl=NS&ppjl=f&fu=16&bc=9&ifi=0&uci=0.48i36se2l6n8&dtd=249",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/epurchase?dp=%5B%22epdp%22,false,false,%22https://play.google.com/store/apps/details?id%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig%22%5D&epar=%5B%5B%5B%22com.tencent.ig%22,1%5D%5D%5D&usegapi=1&id=I0_1545521909834&_gfid=I0_1545521909834&parent=https://play.google.com&pfname&rpctoken=39649788&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fplay.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=404902271&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.10appstore.net/pubg/win10apps.html",
+    "PageTitle": "PUBG for Windows 10 free download on Windows 10 App Store",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+on+windows+10+for+free&FORM=QSRE3",
+    "PageTitle": "pubg on windows 10 for free - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+on+windows+10+for+free&FORM=QSRE3&sid=0D23CDD1EE656AA910FAC11FEF0A6BDC&format=snrjson&jsoncbid=0",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A694%3A1&pstMsg=1&chtml=LoginDoneHtml&service=googleplay&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig&gidl=EgIIAA",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/signin/v2/sl/pwd?service=googleplay&passive=86400&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+for+windows+10&form=EDGEAR&qs=SC&cvid=abb05145643d44dcb552792c0ec94a66&cc=US&setlang=en-US&PC=HCTS",
+    "PageTitle": "pubg for windows 10 - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-389864980&timestamp=1545521893186",
+    "PageTitle": "accounts.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://notifications.google.com/u/0/widget?sourceid=78&hl=en&origin=https%3A%2F%2Fplay.google.com&uc=1&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#pid=78&_methods=onError%2ConInfo%2ChideNotificationWidget%2CpostSharedMessage%2Creauth%2CsetNotificationWidgetHeight%2CsetNotificationWidgetSize%2CswitchTo%2CnavigateTo%2CsetNotificationText%2CsetNotificationAnimation%2CgetNotificationText%2CvalidateUser%2C_ready&id=I1_1545523905229&_gfid=I1_1545523905229&parent=https%3A%2F%2Fplay.google.com&pfname=&rpctoken=14998700",
+    "PageTitle": "notifications.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/signin/v2/identifier?service=googleplay&passive=86400&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+    "PageTitle": "Google Play",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fplay.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=1853119316&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/ServiceLogin?service=googleplay&passive=86400&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/epurchase?dp=%5B%22epdp%22,false,false,%22https://play.google.com/store/apps/details?id%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig%22%5D&epar=%5B%5B%5B%22com.tencent.ig%22,1%5D%5D%5D&usegapi=1&id=I0_1545523901752&_gfid=I0_1545523901752&parent=https://play.google.com&pfname&rpctoken=11541415&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fplay.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=286454396&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig&rdid=com.tencent.ig",
+    "PageTitle": "PUBG MOBILE - Apps on Google Play",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/search?q=pubg",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A486%3A1&pstMsg=1&chtml=LoginDoneHtml&service=googleplay&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig&gidl=EgIIAA",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store?utm_source=na_Med&utm_medium=offsem&utm_content=Jan3017&utm_campaign=Evergreen&pcampaignid=MKT-DR-na-us-1000189-Med-offsem-py-Evergreen-Jan3017-Text_Search_BKWS-id_100255_%7cEXA%7cOFFSEM_kwid_43700020583891786&gclid=CJH4_sXNtN8CFdRVgQodYF4Jwg&gclsrc=ds",
+    "PageTitle": "Google Play",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=215461349&timestamp=1545523891230",
+    "PageTitle": "accounts.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/signin/v2/sl/pwd?service=googleplay&passive=0&authuser=0&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/ServiceLogin?service=googleplay&passive=0&authuser=0&continue=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tencent.ig%26rdid%3Dcom.tencent.ig",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fplay.google.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#rpctoken=702125806&forcesecure=1",
+    "PageTitle": "accounts.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e30-RrDSVN8d75c20UOXNAYjVUCUx5SW6nhktmtSxF4d4dekqhxlXTkiu0fTgMm4LFYBzBtcGgEWEqZMvogXA8d1KcE-C4vawzS1t3NcxmkuQuZpY5ZOyOgiHJhAU7u5OwoeicYugHPBCgglBctvCtkOodKUGf2ww9lmXjE1zgBw59k7vd&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDAyMDU4Mzg5MTc4NiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMjQxMDg3MTMyNSUyNiUyNmRzX2VfYWRpZCUzZDczOTQyMjI4OTY2MTc4JTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnBsYXkuZ29vZ2xlLmNvbSUyZnN0b3JlJTNmdXRtX3NvdXJjZSUzZG5hX01lZCUyNnV0bV9tZWRpdW0lM2RvZmZzZW0lMjZ1dG1fY29udGVudCUzZEphbjMwMTclMjZ1dG1fY2FtcGFpZ24lM2RFdmVyZ3JlZW4lMjZwY2FtcGFpZ25pZCUzZE1LVC1EUi1uYS11cy0xMDAwMTg5LU1lZC1vZmZzZW0tcHktRXZlcmdyZWVuLUphbjMwMTctVGV4dF9TZWFyY2hfQktXUy1pZF8xMDAyNTVfJTdjRVhBJTdjT0ZGU0VNX2t3aWRfJTViKlRyYWNrZXJJRColNWQ&rlid=8a78f00ab9bd1a353f4bac1473091896&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/epurchase?dp=%5B%22epdp%22,false,false,%22https://play.google.com/store/apps/details?id%3Dcom.tencent.ig%22%5D&epar=%5B%5B%5B%22com.tencent.ig%22,1%5D%5D%5D&usegapi=1&id=I0_1545523886911&_gfid=I0_1545523886911&parent=https://play.google.com&pfname&rpctoken=41457423&jsh=m;/_/scs/abc-static/_/js/k%3Dgapi.gapi.en.FG3dTgKD_wc.O/rt%3Dj/d%3D1/rs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA/m%3D__features__",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://notifications.google.com/u/0/widget?sourceid=78&hl=en&origin=https%3A%2F%2Fplay.google.com&uc=1&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#pid=78&_methods=onError%2ConInfo%2ChideNotificationWidget%2CpostSharedMessage%2Creauth%2CsetNotificationWidgetHeight%2CsetNotificationWidgetSize%2CswitchTo%2CnavigateTo%2CsetNotificationText%2CsetNotificationAnimation%2CgetNotificationText%2CvalidateUser%2C_ready&id=I1_1545523887153&_gfid=I1_1545523887153&parent=https%3A%2F%2Fplay.google.com&pfname=&rpctoken=33294106",
+    "PageTitle": "notifications.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=google+play+store&form=EDGSPH&mkt=en-us&httpsmsn=1&refig=30c89fb0ff0b4a94b0382ed0e3ae7ee3&PC=HCTS&sp=2&ghc=1&qs=LS&pq=google+play&sk=LS1&sc=8-11&cvid=30c89fb0ff0b4a94b0382ed0e3ae7ee3&cc=US&setlang=en-US",
+    "PageTitle": "google play store - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/search?q=PUBG%20MOBILE&c=apps",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://notifications.google.com/u/0/widget?sourceid=78&hl=en&origin=https%3A%2F%2Fplay.google.com&uc=1&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.FG3dTgKD_wc.O%2Frt%3Dj%2Fd%3D1%2Frs%3DAHpOoo_ZNd1Q_9wfB-oUWsMjMFF_7HQbqA%2Fm%3D__features__#pid=78&_methods=onError%2ConInfo%2ChideNotificationWidget%2CpostSharedMessage%2Creauth%2CsetNotificationWidgetHeight%2CsetNotificationWidgetSize%2CswitchTo%2CnavigateTo%2CsetNotificationText%2CsetNotificationAnimation%2CgetNotificationText%2CvalidateUser%2C_ready&id=I0_1545523841898&_gfid=I0_1545523841898&parent=https%3A%2F%2Fplay.google.com&pfname=&rpctoken=38712640",
+    "PageTitle": "notifications.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/apps",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store?utm_source=na_Med&utm_medium=offsem&utm_content=Jan3017&utm_campaign=Evergreen&pcampaignid=MKT-DR-na-us-1000189-Med-offsem-py-Evergreen-Jan3017-Text_Search_BKWS-id_100255_%7cEXA%7cOFFSEM_kwid_43700020583891786&gclid=CPiXmfnUtN8CFZLdDQod7yICEg&gclsrc=ds",
+    "PageTitle": "Google Play",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=tencent+games&form=EDGEAR&qs=PF&cvid=95fd1732774b4cf3ba7d90f8484c2884&cc=US&setlang=en-US&PC=HCTS",
+    "PageTitle": "tencent games - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.tencent.com/en-us/index.html",
+    "PageTitle": "Tencent 腾讯",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3EnFtTgL2zavVtYwd7zWqjDVUCUwet9WxDKVW_lr142EUxoqIJkFyoKjFGo383aFJzr4FWWBUwSE05uYt5TM7mQRZ3Kb86i89qFc5vPB4PAOwwZWU8axI6f0aw5BVLtjh51lLH9pOi8-PH3JrX2yOWcaLc7spL7-lA6oDlkGgj5WAjJ0u&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDAyMDU4Mzg5MTc4NiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMjQxMDg3MTMyNSUyNiUyNmRzX2VfYWRpZCUzZDczOTQyMjI4OTY2MTc4JTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnBsYXkuZ29vZ2xlLmNvbSUyZnN0b3JlJTNmdXRtX3NvdXJjZSUzZG5hX01lZCUyNnV0bV9tZWRpdW0lM2RvZmZzZW0lMjZ1dG1fY29udGVudCUzZEphbjMwMTclMjZ1dG1fY2FtcGFpZ24lM2RFdmVyZ3JlZW4lMjZwY2FtcGFpZ25pZCUzZE1LVC1EUi1uYS11cy0xMDAwMTg5LU1lZC1vZmZzZW0tcHktRXZlcmdyZWVuLUphbjMwMTctVGV4dF9TZWFyY2hfQktXUy1pZF8xMDAyNTVfJTdjRVhBJTdjT0ZGU0VNX2t3aWRfJTViKlRyYWNrZXJJRColNWQ&rlid=f5b2307faef41b81479f6c617c83ca86&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=google+play+store&form=EDGHPT&qs=PF&cvid=88e902fa381a406d9fa39d3dc4754284&cc=US&setlang=en-US&PC=HCTS",
+    "PageTitle": "google play store - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=tencent+games&form=EDGEAR&qs=LS&cvid=4af6827713d34903b3d5ce5c0002ff8a&cc=US&setlang=en-US&PC=HCTS",
+    "PageTitle": "tencent games - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/secure/Passport.aspx?sso=1&sig=0D23CDD1EE656AA910FAC11FEF0A6BDC&wa=wsignin1.0",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1545523819&rver=6.7.6631.0&wp=MBI_SSL&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3fsso%3d1%26sig%3d0D23CDD1EE656AA910FAC11FEF0A6BDC&lc=1033&id=264960&checkda=1&CSRFToken=e288c9a0-06c0-4ebf-9b72-9b8bf2bf36db&aadredir=1",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.youtube.com/embed/kGOUDbyb1pk?autoplay=1&enablejsapi=1&origin=https://www.bing.com&rel=0",
+    "PageTitle": "www.youtube.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.msn.com/spartan/dhp?locale=en-US&market=US&enableregulatorypsm=0&enablecpsm=0&ishostisolationenforced=0&targetexperience=default",
+    "PageTitle": "Start",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/videos/search?q=how+to+download+pubg+on+pc&docid=608052382693852171&mid=C5BAD70019339ADE8515C5BAD70019339ADE8515&view=detail&FORM=VIREHT",
+    "PageTitle": "How To download PUBG for PC - Bing video",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/Me.srf?wa=wsignin1.0&rpsnv=13&ct=1545523781&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin&lc=1033&id=292666&uaid=6da08fdf-40a3-4246-7c1d-2538e1eb2027&partnerId=amc",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=how+to+download+pubg+on+pc&form=EDGEAR&qs=AS&cvid=731ff106c21c4e0a837f98df880aa9d1&cc=US&setlang=en-US&PC=HCTS",
+    "PageTitle": "how to download pubg on pc - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://s.amazon-adsystem.com/v3/pr?exlist=pp_ns_rx_bsw_bk_aold_gem_imdb_twca_adelphic_adb_mp_sx_af_kr_g_ox_index_an_rb_fbca_y_pm_rlsa_tbl&fv=1.0&ex-pl-fbca=2_WZfblAR1GksR5xcR0oOA&ex-pl-twca=rAfC95aqS9C-GcDmpOf0bw&a=cm&ep=nL6B-V397D5w4xpQlDRqcJ387NP3mh06sc221tl_g2lA_wOVUnS_HOtb2EaZUYar0e4-4pfk-G8IQDzTaQ1qR0mYIUkSa0qHFbD9Db_CCz_9TLRvhIqYuXWtaD4adE1ZOyWtts5rZB85oG9FVlBPhXw03kkrKNkgeMosatU9nGj_aXKvOZFxChdNQ2iZOWzZ2ff6dXzBAp0e9COm6PL0hQ",
+    "PageTitle": "s.amazon-adsystem.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=010151c6ef6a4fc1ad289eb765af2d3a17cf319ed8fc5a0ec3ed8d6cfa72023b7d87&old_oo=0&ts=1545521685791&s=ARHq-gQVXJNxO-vAANqqJ1C1YQhHW-48LhpSKON3gbj0&cb=1545521685791",
+    "PageTitle": "s.amazon-adsystem.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/profile?refd=account.microsoft.com",
+    "PageTitle": "account.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.amazon.com/pubg-pc/s?page=1&rh=i%3Aaps%2Ck%3Apubg%20pc",
+    "PageTitle": "www.amazon.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/auth/complete-signin?ru=https%3A%2F%2Faccount.microsoft.com%2Fprofile%3Frefd%3Daccount.microsoft.com&wa=wsignin1.0",
+    "PageTitle": "account.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1545523725&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252Fprofile%253Frefd%253Daccount.microsoft.com&lc=1033&id=292666&lw=1&fl=easi2",
+    "PageTitle": "Continue",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/profile/edit-name",
+    "PageTitle": "account.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/Me.srf?wa=wsignin1.0&rpsnv=13&ct=1545523725&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin&lc=1033&id=292666&uaid=6da08fdf-40a3-4246-7c1d-2538e1eb2027&partnerId=amc",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pub+g+for+pc&form=EDGEAR&qs=PF&cvid=d75522a79b8f4863a087f47a95a4042a&cc=US&setlang=en-US&PC=HCTS",
+    "PageTitle": "pub g for pc - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/profile/",
+    "PageTitle": "Microsoft account | Your profile | Your info",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/j-GHT1gpo6-.js?version=43#channel=f3d2eb9ea3c134&origin=http%3A%2F%2Fpubg-pc.com",
+    "PageTitle": "staticxx.facebook.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/profile?fref=home.banner.profile",
+    "PageTitle": "account.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+pc&form=WNSGPH&qs=HS&cvid=c81eb25703104c61869e8ee2cb44ac83&pq=pubg+pc&cc=US&setlang=en-US&nclid=DD4FDB0B02986EE7636586F46932E264&ts=1545521583094&elv=AY3%21uAY7tbNNZGZ2yiGNjfPUDhT7rrGeWEUWWI4H2%21REGUKDBbQnfCznb2ICY7EJQWMEaKO2EyAzBSjRm94hZwVJIGMoVclLaSoKCNRRo0sX&wsso=Moderate",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/Me.srf?wa=wsignin1.0&rpsnv=13&ct=1545523708&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin&lc=1033&id=292666&uaid=6da08fdf-40a3-4246-7c1d-2538e1eb2027&partnerId=amc",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.microsoft.com/store/buy/cartcount",
+    "PageTitle": "www.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+pc&form=WNSGPH&qs=HS&cvid=c81eb25703104c61869e8ee2cb44ac83&pq=pubg+pc&cc=US&setlang=en-US&nclid=DD4FDB0B02986EE7636586F46932E264&ts=1545521583094&nclidts=1545521583&tsms=094&elv=AY3%21uAY7tbNNZGZ2yiGNjfPUDhT7rrGeWEUWWI4H2%21REGUKDBbQnfCznb2ICY7EJQWMEaKO2EyAzBSjRm94hZwVJIGMoVclLaSoKCNRRo0sX&wsso=Moderate",
+    "PageTitle": "pubg pc - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://downloadmyinboxhelper.com/?adprovider=AppFocus1&source=d-ccc3&device=c&creative=287846301525&keyword=&matchtype=&adposition=none&placement=pubg-pc.com&target=segment_be_a_6145630858790074776&gw=1&gclid=EAIaIQobChMIi4GHrMy03wIVDMXACh1cAQVbEAEYASAAEgIgPPD_BwE",
+    "PageTitle": "My Inbox Helper",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/?ref=MeControl",
+    "PageTitle": "Microsoft account | Home",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://downloadmyinboxhelper.com/?adprovider=AppFocus1&source=d-ccc3&device=c&creative=287846301525&keyword=&matchtype=&adposition=none&placement=pubg-pc.com&target=segment_be_a_6145630858790074776&gw=1&gclid=EAIaIQobChMIi4GHrMy03wIVDMXACh1cAQVbEAEYASAAEgIgPPD_BwE",
+    "PageTitle": "downloadmyinboxhelper.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/?username=jambanks91%40gmail.com&ref=MeControl",
+    "PageTitle": "account.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2181009073755322&output=html&h=90&slotname=6780041215&adk=3484506395&adf=3524414452&w=728&fwrn=4&fwrnh=100&lmt=1545521525&loeid=368226960&rafmt=1&guci=2.2.0.0.2.2.0.0&format=728x90&url=http%3A%2F%2Fpubg-pc.com%2Fplayerunknowns-battlegrounds-free-download.html&flash=0&fwr=0&resp_fmts=3&wgl=1&dt=1545521524908&bpp=114&bdt=2847&fdt=239&idt=231&shv=r20181205&cbv=r20180604&saldr=aa&abxe=1&correlator=8028113050140&frm=20&pv=2&ga_vid=322362464.1545521525&ga_sid=1545521525&ga_hid=813967164&ga_fc=0&icsg=11532968&dssz=19&mdo=0&mso=0&u_tz=-300&u_his=3&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=311&ady=530&biw=1350&bih=651&scr_x=0&scr_y=0&eid=21060853%2C368226950%2C410075081&oid=2&ref=http%3A%2F%2Fpubg-pc.com%2F&rx=0&eae=0&fc=656&brdim=0%2C85%2C0%2C8%2C1366%2C%2C1366%2C728%2C1366%2C651&vis=2&rsz=%7C%7CeEr%7C&abl=CS&ppjl=f&pfx=0&fu=144&bc=9&ifi=1&uci=1.caif96gtlws6&xpc=LXuztTb9kg&p=http%3A//pubg-pc.com&dtd=270",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://web.vortex.data.microsoft.com/collect/v1/asm.js?wa=wsignin1.0",
+    "PageTitle": "web.vortex.data.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&checkda=1&ct=1545523690&rver=6.7.6643.0&wp=NFS_1wk_compact_SSL&wreply=https:%2F%2Fweb.vortex.data.microsoft.com%2Fcollect%2Fv1%2Fasm.js&lc=1033&id=292888",
+    "PageTitle": "login.live.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://a3698060313.cdn.optimizely.com/client_storage/a3698060313.html",
+    "PageTitle": "a3698060313.cdn.optimizely.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://platform.twitter.com/widgets/widget_iframe.d30011b0f5ce05b98f24b01d3331b3c1.html?origin=http%3A%2F%2Fpubg-pc.com&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings",
+    "PageTitle": "platform.twitter.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/auth/complete-silent-signin?ru=https%3A%2F%2Faccount.microsoft.com%2F%3Fref%3Dsettings%26Platform%3DWindows10&wa=wsignin1.0",
+    "PageTitle": "account.microsoft.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://pubg-pc.com/playerunknowns-battlegrounds-free-download.html",
+    "PageTitle": "Playerunknown’s Battlegrounds Free Download - PUBG PC",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&checkda=1&ct=1545523686&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-silent-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Fref%253Dsettings%2526Platform%253DWindows10&lc=1033&id=292666",
+    "PageTitle": "Continue",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2181009073755322&output=html&h=90&slotname=6780041215&adk=3484506395&adf=3524414452&w=728&fwrn=4&fwrnh=100&lmt=1545521519&rafmt=1&guci=2.2.0.0.2.2.0.0&format=728x90&url=http%3A%2F%2Fpubg-pc.com%2F&flash=0&fwr=0&resp_fmts=3&wgl=1&dt=1545521517606&bpp=47&bdt=3195&fdt=1391&idt=1375&shv=r20181205&cbv=r20180604&saldr=aa&abxe=1&correlator=827075852438&frm=20&pv=2&ga_vid=1751665267.1545521519&ga_sid=1545521519&ga_hid=2087116190&ga_fc=0&icsg=184527375&dssz=25&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&adx=311&ady=530&biw=1350&bih=651&scr_x=0&scr_y=0&eid=21060853%2C410075081&oid=2&rx=0&eae=0&fc=656&brdim=0%2C77%2C0%2C0%2C1366%2C%2C1382%2C744%2C1366%2C651&vis=1&rsz=%7C%7CoeE%7C&abl=CS&ppjl=u&pfx=0&fu=144&bc=9&ifi=1&uci=1.v2ssbord107d&xpc=lxyzGizFeL&p=http%3A//pubg-pc.com&dtd=1469",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://account.microsoft.com/?ref=settings&Platform=Windows10",
+    "PageTitle": "Microsoft account | Home",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://googleads.g.doubleclick.net/pagead/html/r20181205/r20180604/zrt_lookup.html#",
+    "PageTitle": "googleads.g.doubleclick.net",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://server.cpmstar.com/view.aspx?poolid=71081&campaignid=428016&creativeid=1128139&h=A4751F39E0CCA0B1ACC828624308EFD545057DA7",
+    "PageTitle": "server.cpmstar.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "http://pubg-pc.com/",
+    "PageTitle": "PUBG PC - PlayerUnknown's Battlegrounds For PC",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+pc&form=WNSGPH&qs=LS&cvid=7770943b68dc4c3585e25123a64849df&pq=pubg+pc&cc=US&setlang=en-US&nclid=DD4FDB0B02986EE7636586F46932E264&ts=1545521503915&elv=AY3%21uAY7tbNNZGZ2yiGNjfPUDhT7rrGeWEUWWI4H2%21RE*6II5BSnlj4IfFLxDskW%21Vi0yc4wPDxhdU0EfiNCbZOGSGObPOckqQk*I*7Kxpmf&wsso=Moderate",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+pc&form=WNSGPH&qs=LS&cvid=7770943b68dc4c3585e25123a64849df&pq=pubg+pc&cc=US&setlang=en-US&nclid=DD4FDB0B02986EE7636586F46932E264&ts=1545521503915&nclidts=1545521503&tsms=915&elv=AY3%21uAY7tbNNZGZ2yiGNjfPUDhT7rrGeWEUWWI4H2%21RE*6II5BSnlj4IfFLxDskW%21Vi0yc4wPDxhdU0EfiNCbZOGSGObPOckqQk*I*7Kxpmf&wsso=Moderate",
+    "PageTitle": "pubg pc - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/search?q=pubg%20pc&c=apps&authuser",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/search?q=pubg&c=apps",
+    "PageTitle": "play.google.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://play.google.com/store/apps/category/GAME?utm_source=na_Med&utm_medium=offsem&utm_content=Jan3017&utm_campaign=Evergreen&pcampaignid=MKT-DR-na-us-1000189-Med-offsem-gm-Evergreen-Jan3017-Text_Search_SKWS-id_100256_%7cBMM%7cOFFSEM_kwid_43700020583950991&gclid=CJiTyYjMtN8CFVSYgQodccAGNg&gclsrc=ds",
+    "PageTitle": "Games - Android Apps on Google Play",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/aclick?ld=e3eTxG3u-cPJWaXnJfNwO04zVUCUw7DL8lKfnvQHwXyDO_WtDh0nL6B5Wh1cTCpcB4psf3l1tq4cBHKFzTq_EGzlbFZorbzMbkv0RNp1aagKhAy-QRgx3VH5ehYwIdRo2ftAMpWW1jsF2BbyFDLMVhB8q881aLNNp79GUJwmadsREGRRut&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDAyMDU4Mzk1MDk5MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMjQwOTQ3Nzg5OSUyNiUyNmRzX2VfYWRpZCUzZDczNjY3MzUxMTY2NTg2JTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnBsYXkuZ29vZ2xlLmNvbSUyZnN0b3JlJTJmYXBwcyUyZmNhdGVnb3J5JTJmR0FNRSUzZnV0bV9zb3VyY2UlM2RuYV9NZWQlMjZ1dG1fbWVkaXVtJTNkb2Zmc2VtJTI2dXRtX2NvbnRlbnQlM2RKYW4zMDE3JTI2dXRtX2NhbXBhaWduJTNkRXZlcmdyZWVuJTI2cGNhbXBhaWduaWQlM2RNS1QtRFItbmEtdXMtMTAwMDE4OS1NZWQtb2Zmc2VtLWdtLUV2ZXJncmVlbi1KYW4zMDE3LVRleHRfU2VhcmNoX1NLV1MtaWRfMTAwMjU2XyU3Y0JNTSU3Y09GRlNFTV9rd2lkXyU1YipUcmFja2VySUQqJTVk&rlid=85899247b6561ce41ce0ce597f765242&adlt=strict",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/orgid/idtoken/nosignin",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+game+download+for+pc&form=WNSGPH&qs=HS&cvid=d830c46968314d2cacbc9246352f2d0a&pq=pubg&cc=US&setlang=en-US&nclid=DD4FDB0B02986EE7636586F46932E264&ts=1545521438574&elv=AY3%21uAY7tbNNZGZ2yiGNjfPUDhT7rrGeWEUWWI4H2%21REqlaJVoWU*Aue*7YbUtQHbGIxMWW%213gLa06dd%21R3KQmnlD7P*qC76AHcray1JqLNx&wsso=Moderate",
+    "PageTitle": "www.bing.com",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-23T01:12:11+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "https://www.bing.com/search?q=pubg+game+download+for+pc&form=WNSGPH&qs=HS&cvid=d830c46968314d2cacbc9246352f2d0a&pq=pubg&cc=US&setlang=en-US&nclid=DD4FDB0B02986EE7636586F46932E264&ts=1545521438574&nclidts=1545521438&tsms=574&elv=AY3%21uAY7tbNNZGZ2yiGNjfPUDhT7rrGeWEUWWI4H2%21REqlaJVoWU*Aue*7YbUtQHbGIxMWW%213gLa06dd%21R3KQmnlD7P*qC76AHcray1JqLNx&wsso=Moderate",
+    "PageTitle": "pubg game download for pc - Bing",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-22T23:13:48+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "dwww.bing.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-22T23:13:48+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "dlogin.live.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  },
+  {
+    "DateTime": "2018-12-22T23:13:48+00:00",
+    "DeviceId": "g:6825773374742875",
+    "NavigatedToUrl": "dwww.msn.com",
+    "PageTitle": "",
+    "SearchTerms": null
+  }
+]
+}
